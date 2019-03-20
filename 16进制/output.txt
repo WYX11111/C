@@ -1,0 +1,4002 @@
+        if cmp(text,"500")==0:
+                a = "\xf4\x01"
+        if cmp(text,"501")==0:
+                a = "\xf5\x01"
+        if cmp(text,"502")==0:
+                a = "\xf6\x01"
+        if cmp(text,"503")==0:
+                a = "\xf7\x01"
+        if cmp(text,"504")==0:
+                a = "\xf8\x01"
+        if cmp(text,"505")==0:
+                a = "\xf9\x01"
+        if cmp(text,"506")==0:
+                a = "\xfa\x01"
+        if cmp(text,"507")==0:
+                a = "\xfb\x01"
+        if cmp(text,"508")==0:
+                a = "\xfc\x01"
+        if cmp(text,"509")==0:
+                a = "\xfd\x01"
+        if cmp(text,"510")==0:
+                a = "\xfe\x01"
+        if cmp(text,"511")==0:
+                a = "\xff\x01"
+        if cmp(text,"512")==0:
+                a = "\x00\x02"
+        if cmp(text,"513")==0:
+                a = "\x01\x02"
+        if cmp(text,"514")==0:
+                a = "\x02\x02"
+        if cmp(text,"515")==0:
+                a = "\x03\x02"
+        if cmp(text,"516")==0:
+                a = "\x04\x02"
+        if cmp(text,"517")==0:
+                a = "\x05\x02"
+        if cmp(text,"518")==0:
+                a = "\x06\x02"
+        if cmp(text,"519")==0:
+                a = "\x07\x02"
+        if cmp(text,"520")==0:
+                a = "\x08\x02"
+        if cmp(text,"521")==0:
+                a = "\x09\x02"
+        if cmp(text,"522")==0:
+                a = "\x0a\x02"
+        if cmp(text,"523")==0:
+                a = "\x0b\x02"
+        if cmp(text,"524")==0:
+                a = "\x0c\x02"
+        if cmp(text,"525")==0:
+                a = "\x0d\x02"
+        if cmp(text,"526")==0:
+                a = "\x0e\x02"
+        if cmp(text,"527")==0:
+                a = "\x0f\x02"
+        if cmp(text,"528")==0:
+                a = "\x10\x02"
+        if cmp(text,"529")==0:
+                a = "\x11\x02"
+        if cmp(text,"530")==0:
+                a = "\x12\x02"
+        if cmp(text,"531")==0:
+                a = "\x13\x02"
+        if cmp(text,"532")==0:
+                a = "\x14\x02"
+        if cmp(text,"533")==0:
+                a = "\x15\x02"
+        if cmp(text,"534")==0:
+                a = "\x16\x02"
+        if cmp(text,"535")==0:
+                a = "\x17\x02"
+        if cmp(text,"536")==0:
+                a = "\x18\x02"
+        if cmp(text,"537")==0:
+                a = "\x19\x02"
+        if cmp(text,"538")==0:
+                a = "\x1a\x02"
+        if cmp(text,"539")==0:
+                a = "\x1b\x02"
+        if cmp(text,"540")==0:
+                a = "\x1c\x02"
+        if cmp(text,"541")==0:
+                a = "\x1d\x02"
+        if cmp(text,"542")==0:
+                a = "\x1e\x02"
+        if cmp(text,"543")==0:
+                a = "\x1f\x02"
+        if cmp(text,"544")==0:
+                a = "\x20\x02"
+        if cmp(text,"545")==0:
+                a = "\x21\x02"
+        if cmp(text,"546")==0:
+                a = "\x22\x02"
+        if cmp(text,"547")==0:
+                a = "\x23\x02"
+        if cmp(text,"548")==0:
+                a = "\x24\x02"
+        if cmp(text,"549")==0:
+                a = "\x25\x02"
+        if cmp(text,"550")==0:
+                a = "\x26\x02"
+        if cmp(text,"551")==0:
+                a = "\x27\x02"
+        if cmp(text,"552")==0:
+                a = "\x28\x02"
+        if cmp(text,"553")==0:
+                a = "\x29\x02"
+        if cmp(text,"554")==0:
+                a = "\x2a\x02"
+        if cmp(text,"555")==0:
+                a = "\x2b\x02"
+        if cmp(text,"556")==0:
+                a = "\x2c\x02"
+        if cmp(text,"557")==0:
+                a = "\x2d\x02"
+        if cmp(text,"558")==0:
+                a = "\x2e\x02"
+        if cmp(text,"559")==0:
+                a = "\x2f\x02"
+        if cmp(text,"560")==0:
+                a = "\x30\x02"
+        if cmp(text,"561")==0:
+                a = "\x31\x02"
+        if cmp(text,"562")==0:
+                a = "\x32\x02"
+        if cmp(text,"563")==0:
+                a = "\x33\x02"
+        if cmp(text,"564")==0:
+                a = "\x34\x02"
+        if cmp(text,"565")==0:
+                a = "\x35\x02"
+        if cmp(text,"566")==0:
+                a = "\x36\x02"
+        if cmp(text,"567")==0:
+                a = "\x37\x02"
+        if cmp(text,"568")==0:
+                a = "\x38\x02"
+        if cmp(text,"569")==0:
+                a = "\x39\x02"
+        if cmp(text,"570")==0:
+                a = "\x3a\x02"
+        if cmp(text,"571")==0:
+                a = "\x3b\x02"
+        if cmp(text,"572")==0:
+                a = "\x3c\x02"
+        if cmp(text,"573")==0:
+                a = "\x3d\x02"
+        if cmp(text,"574")==0:
+                a = "\x3e\x02"
+        if cmp(text,"575")==0:
+                a = "\x3f\x02"
+        if cmp(text,"576")==0:
+                a = "\x40\x02"
+        if cmp(text,"577")==0:
+                a = "\x41\x02"
+        if cmp(text,"578")==0:
+                a = "\x42\x02"
+        if cmp(text,"579")==0:
+                a = "\x43\x02"
+        if cmp(text,"580")==0:
+                a = "\x44\x02"
+        if cmp(text,"581")==0:
+                a = "\x45\x02"
+        if cmp(text,"582")==0:
+                a = "\x46\x02"
+        if cmp(text,"583")==0:
+                a = "\x47\x02"
+        if cmp(text,"584")==0:
+                a = "\x48\x02"
+        if cmp(text,"585")==0:
+                a = "\x49\x02"
+        if cmp(text,"586")==0:
+                a = "\x4a\x02"
+        if cmp(text,"587")==0:
+                a = "\x4b\x02"
+        if cmp(text,"588")==0:
+                a = "\x4c\x02"
+        if cmp(text,"589")==0:
+                a = "\x4d\x02"
+        if cmp(text,"590")==0:
+                a = "\x4e\x02"
+        if cmp(text,"591")==0:
+                a = "\x4f\x02"
+        if cmp(text,"592")==0:
+                a = "\x50\x02"
+        if cmp(text,"593")==0:
+                a = "\x51\x02"
+        if cmp(text,"594")==0:
+                a = "\x52\x02"
+        if cmp(text,"595")==0:
+                a = "\x53\x02"
+        if cmp(text,"596")==0:
+                a = "\x54\x02"
+        if cmp(text,"597")==0:
+                a = "\x55\x02"
+        if cmp(text,"598")==0:
+                a = "\x56\x02"
+        if cmp(text,"599")==0:
+                a = "\x57\x02"
+        if cmp(text,"600")==0:
+                a = "\x58\x02"
+        if cmp(text,"601")==0:
+                a = "\x59\x02"
+        if cmp(text,"602")==0:
+                a = "\x5a\x02"
+        if cmp(text,"603")==0:
+                a = "\x5b\x02"
+        if cmp(text,"604")==0:
+                a = "\x5c\x02"
+        if cmp(text,"605")==0:
+                a = "\x5d\x02"
+        if cmp(text,"606")==0:
+                a = "\x5e\x02"
+        if cmp(text,"607")==0:
+                a = "\x5f\x02"
+        if cmp(text,"608")==0:
+                a = "\x60\x02"
+        if cmp(text,"609")==0:
+                a = "\x61\x02"
+        if cmp(text,"610")==0:
+                a = "\x62\x02"
+        if cmp(text,"611")==0:
+                a = "\x63\x02"
+        if cmp(text,"612")==0:
+                a = "\x64\x02"
+        if cmp(text,"613")==0:
+                a = "\x65\x02"
+        if cmp(text,"614")==0:
+                a = "\x66\x02"
+        if cmp(text,"615")==0:
+                a = "\x67\x02"
+        if cmp(text,"616")==0:
+                a = "\x68\x02"
+        if cmp(text,"617")==0:
+                a = "\x69\x02"
+        if cmp(text,"618")==0:
+                a = "\x6a\x02"
+        if cmp(text,"619")==0:
+                a = "\x6b\x02"
+        if cmp(text,"620")==0:
+                a = "\x6c\x02"
+        if cmp(text,"621")==0:
+                a = "\x6d\x02"
+        if cmp(text,"622")==0:
+                a = "\x6e\x02"
+        if cmp(text,"623")==0:
+                a = "\x6f\x02"
+        if cmp(text,"624")==0:
+                a = "\x70\x02"
+        if cmp(text,"625")==0:
+                a = "\x71\x02"
+        if cmp(text,"626")==0:
+                a = "\x72\x02"
+        if cmp(text,"627")==0:
+                a = "\x73\x02"
+        if cmp(text,"628")==0:
+                a = "\x74\x02"
+        if cmp(text,"629")==0:
+                a = "\x75\x02"
+        if cmp(text,"630")==0:
+                a = "\x76\x02"
+        if cmp(text,"631")==0:
+                a = "\x77\x02"
+        if cmp(text,"632")==0:
+                a = "\x78\x02"
+        if cmp(text,"633")==0:
+                a = "\x79\x02"
+        if cmp(text,"634")==0:
+                a = "\x7a\x02"
+        if cmp(text,"635")==0:
+                a = "\x7b\x02"
+        if cmp(text,"636")==0:
+                a = "\x7c\x02"
+        if cmp(text,"637")==0:
+                a = "\x7d\x02"
+        if cmp(text,"638")==0:
+                a = "\x7e\x02"
+        if cmp(text,"639")==0:
+                a = "\x7f\x02"
+        if cmp(text,"640")==0:
+                a = "\x80\x02"
+        if cmp(text,"641")==0:
+                a = "\x81\x02"
+        if cmp(text,"642")==0:
+                a = "\x82\x02"
+        if cmp(text,"643")==0:
+                a = "\x83\x02"
+        if cmp(text,"644")==0:
+                a = "\x84\x02"
+        if cmp(text,"645")==0:
+                a = "\x85\x02"
+        if cmp(text,"646")==0:
+                a = "\x86\x02"
+        if cmp(text,"647")==0:
+                a = "\x87\x02"
+        if cmp(text,"648")==0:
+                a = "\x88\x02"
+        if cmp(text,"649")==0:
+                a = "\x89\x02"
+        if cmp(text,"650")==0:
+                a = "\x8a\x02"
+        if cmp(text,"651")==0:
+                a = "\x8b\x02"
+        if cmp(text,"652")==0:
+                a = "\x8c\x02"
+        if cmp(text,"653")==0:
+                a = "\x8d\x02"
+        if cmp(text,"654")==0:
+                a = "\x8e\x02"
+        if cmp(text,"655")==0:
+                a = "\x8f\x02"
+        if cmp(text,"656")==0:
+                a = "\x90\x02"
+        if cmp(text,"657")==0:
+                a = "\x91\x02"
+        if cmp(text,"658")==0:
+                a = "\x92\x02"
+        if cmp(text,"659")==0:
+                a = "\x93\x02"
+        if cmp(text,"660")==0:
+                a = "\x94\x02"
+        if cmp(text,"661")==0:
+                a = "\x95\x02"
+        if cmp(text,"662")==0:
+                a = "\x96\x02"
+        if cmp(text,"663")==0:
+                a = "\x97\x02"
+        if cmp(text,"664")==0:
+                a = "\x98\x02"
+        if cmp(text,"665")==0:
+                a = "\x99\x02"
+        if cmp(text,"666")==0:
+                a = "\x9a\x02"
+        if cmp(text,"667")==0:
+                a = "\x9b\x02"
+        if cmp(text,"668")==0:
+                a = "\x9c\x02"
+        if cmp(text,"669")==0:
+                a = "\x9d\x02"
+        if cmp(text,"670")==0:
+                a = "\x9e\x02"
+        if cmp(text,"671")==0:
+                a = "\x9f\x02"
+        if cmp(text,"672")==0:
+                a = "\xa0\x02"
+        if cmp(text,"673")==0:
+                a = "\xa1\x02"
+        if cmp(text,"674")==0:
+                a = "\xa2\x02"
+        if cmp(text,"675")==0:
+                a = "\xa3\x02"
+        if cmp(text,"676")==0:
+                a = "\xa4\x02"
+        if cmp(text,"677")==0:
+                a = "\xa5\x02"
+        if cmp(text,"678")==0:
+                a = "\xa6\x02"
+        if cmp(text,"679")==0:
+                a = "\xa7\x02"
+        if cmp(text,"680")==0:
+                a = "\xa8\x02"
+        if cmp(text,"681")==0:
+                a = "\xa9\x02"
+        if cmp(text,"682")==0:
+                a = "\xaa\x02"
+        if cmp(text,"683")==0:
+                a = "\xab\x02"
+        if cmp(text,"684")==0:
+                a = "\xac\x02"
+        if cmp(text,"685")==0:
+                a = "\xad\x02"
+        if cmp(text,"686")==0:
+                a = "\xae\x02"
+        if cmp(text,"687")==0:
+                a = "\xaf\x02"
+        if cmp(text,"688")==0:
+                a = "\xb0\x02"
+        if cmp(text,"689")==0:
+                a = "\xb1\x02"
+        if cmp(text,"690")==0:
+                a = "\xb2\x02"
+        if cmp(text,"691")==0:
+                a = "\xb3\x02"
+        if cmp(text,"692")==0:
+                a = "\xb4\x02"
+        if cmp(text,"693")==0:
+                a = "\xb5\x02"
+        if cmp(text,"694")==0:
+                a = "\xb6\x02"
+        if cmp(text,"695")==0:
+                a = "\xb7\x02"
+        if cmp(text,"696")==0:
+                a = "\xb8\x02"
+        if cmp(text,"697")==0:
+                a = "\xb9\x02"
+        if cmp(text,"698")==0:
+                a = "\xba\x02"
+        if cmp(text,"699")==0:
+                a = "\xbb\x02"
+        if cmp(text,"700")==0:
+                a = "\xbc\x02"
+        if cmp(text,"701")==0:
+                a = "\xbd\x02"
+        if cmp(text,"702")==0:
+                a = "\xbe\x02"
+        if cmp(text,"703")==0:
+                a = "\xbf\x02"
+        if cmp(text,"704")==0:
+                a = "\xc0\x02"
+        if cmp(text,"705")==0:
+                a = "\xc1\x02"
+        if cmp(text,"706")==0:
+                a = "\xc2\x02"
+        if cmp(text,"707")==0:
+                a = "\xc3\x02"
+        if cmp(text,"708")==0:
+                a = "\xc4\x02"
+        if cmp(text,"709")==0:
+                a = "\xc5\x02"
+        if cmp(text,"710")==0:
+                a = "\xc6\x02"
+        if cmp(text,"711")==0:
+                a = "\xc7\x02"
+        if cmp(text,"712")==0:
+                a = "\xc8\x02"
+        if cmp(text,"713")==0:
+                a = "\xc9\x02"
+        if cmp(text,"714")==0:
+                a = "\xca\x02"
+        if cmp(text,"715")==0:
+                a = "\xcb\x02"
+        if cmp(text,"716")==0:
+                a = "\xcc\x02"
+        if cmp(text,"717")==0:
+                a = "\xcd\x02"
+        if cmp(text,"718")==0:
+                a = "\xce\x02"
+        if cmp(text,"719")==0:
+                a = "\xcf\x02"
+        if cmp(text,"720")==0:
+                a = "\xd0\x02"
+        if cmp(text,"721")==0:
+                a = "\xd1\x02"
+        if cmp(text,"722")==0:
+                a = "\xd2\x02"
+        if cmp(text,"723")==0:
+                a = "\xd3\x02"
+        if cmp(text,"724")==0:
+                a = "\xd4\x02"
+        if cmp(text,"725")==0:
+                a = "\xd5\x02"
+        if cmp(text,"726")==0:
+                a = "\xd6\x02"
+        if cmp(text,"727")==0:
+                a = "\xd7\x02"
+        if cmp(text,"728")==0:
+                a = "\xd8\x02"
+        if cmp(text,"729")==0:
+                a = "\xd9\x02"
+        if cmp(text,"730")==0:
+                a = "\xda\x02"
+        if cmp(text,"731")==0:
+                a = "\xdb\x02"
+        if cmp(text,"732")==0:
+                a = "\xdc\x02"
+        if cmp(text,"733")==0:
+                a = "\xdd\x02"
+        if cmp(text,"734")==0:
+                a = "\xde\x02"
+        if cmp(text,"735")==0:
+                a = "\xdf\x02"
+        if cmp(text,"736")==0:
+                a = "\xe0\x02"
+        if cmp(text,"737")==0:
+                a = "\xe1\x02"
+        if cmp(text,"738")==0:
+                a = "\xe2\x02"
+        if cmp(text,"739")==0:
+                a = "\xe3\x02"
+        if cmp(text,"740")==0:
+                a = "\xe4\x02"
+        if cmp(text,"741")==0:
+                a = "\xe5\x02"
+        if cmp(text,"742")==0:
+                a = "\xe6\x02"
+        if cmp(text,"743")==0:
+                a = "\xe7\x02"
+        if cmp(text,"744")==0:
+                a = "\xe8\x02"
+        if cmp(text,"745")==0:
+                a = "\xe9\x02"
+        if cmp(text,"746")==0:
+                a = "\xea\x02"
+        if cmp(text,"747")==0:
+                a = "\xeb\x02"
+        if cmp(text,"748")==0:
+                a = "\xec\x02"
+        if cmp(text,"749")==0:
+                a = "\xed\x02"
+        if cmp(text,"750")==0:
+                a = "\xee\x02"
+        if cmp(text,"751")==0:
+                a = "\xef\x02"
+        if cmp(text,"752")==0:
+                a = "\xf0\x02"
+        if cmp(text,"753")==0:
+                a = "\xf1\x02"
+        if cmp(text,"754")==0:
+                a = "\xf2\x02"
+        if cmp(text,"755")==0:
+                a = "\xf3\x02"
+        if cmp(text,"756")==0:
+                a = "\xf4\x02"
+        if cmp(text,"757")==0:
+                a = "\xf5\x02"
+        if cmp(text,"758")==0:
+                a = "\xf6\x02"
+        if cmp(text,"759")==0:
+                a = "\xf7\x02"
+        if cmp(text,"760")==0:
+                a = "\xf8\x02"
+        if cmp(text,"761")==0:
+                a = "\xf9\x02"
+        if cmp(text,"762")==0:
+                a = "\xfa\x02"
+        if cmp(text,"763")==0:
+                a = "\xfb\x02"
+        if cmp(text,"764")==0:
+                a = "\xfc\x02"
+        if cmp(text,"765")==0:
+                a = "\xfd\x02"
+        if cmp(text,"766")==0:
+                a = "\xfe\x02"
+        if cmp(text,"767")==0:
+                a = "\xff\x02"
+        if cmp(text,"768")==0:
+                a = "\x00\x03"
+        if cmp(text,"769")==0:
+                a = "\x01\x03"
+        if cmp(text,"770")==0:
+                a = "\x02\x03"
+        if cmp(text,"771")==0:
+                a = "\x03\x03"
+        if cmp(text,"772")==0:
+                a = "\x04\x03"
+        if cmp(text,"773")==0:
+                a = "\x05\x03"
+        if cmp(text,"774")==0:
+                a = "\x06\x03"
+        if cmp(text,"775")==0:
+                a = "\x07\x03"
+        if cmp(text,"776")==0:
+                a = "\x08\x03"
+        if cmp(text,"777")==0:
+                a = "\x09\x03"
+        if cmp(text,"778")==0:
+                a = "\x0a\x03"
+        if cmp(text,"779")==0:
+                a = "\x0b\x03"
+        if cmp(text,"780")==0:
+                a = "\x0c\x03"
+        if cmp(text,"781")==0:
+                a = "\x0d\x03"
+        if cmp(text,"782")==0:
+                a = "\x0e\x03"
+        if cmp(text,"783")==0:
+                a = "\x0f\x03"
+        if cmp(text,"784")==0:
+                a = "\x10\x03"
+        if cmp(text,"785")==0:
+                a = "\x11\x03"
+        if cmp(text,"786")==0:
+                a = "\x12\x03"
+        if cmp(text,"787")==0:
+                a = "\x13\x03"
+        if cmp(text,"788")==0:
+                a = "\x14\x03"
+        if cmp(text,"789")==0:
+                a = "\x15\x03"
+        if cmp(text,"790")==0:
+                a = "\x16\x03"
+        if cmp(text,"791")==0:
+                a = "\x17\x03"
+        if cmp(text,"792")==0:
+                a = "\x18\x03"
+        if cmp(text,"793")==0:
+                a = "\x19\x03"
+        if cmp(text,"794")==0:
+                a = "\x1a\x03"
+        if cmp(text,"795")==0:
+                a = "\x1b\x03"
+        if cmp(text,"796")==0:
+                a = "\x1c\x03"
+        if cmp(text,"797")==0:
+                a = "\x1d\x03"
+        if cmp(text,"798")==0:
+                a = "\x1e\x03"
+        if cmp(text,"799")==0:
+                a = "\x1f\x03"
+        if cmp(text,"800")==0:
+                a = "\x20\x03"
+        if cmp(text,"801")==0:
+                a = "\x21\x03"
+        if cmp(text,"802")==0:
+                a = "\x22\x03"
+        if cmp(text,"803")==0:
+                a = "\x23\x03"
+        if cmp(text,"804")==0:
+                a = "\x24\x03"
+        if cmp(text,"805")==0:
+                a = "\x25\x03"
+        if cmp(text,"806")==0:
+                a = "\x26\x03"
+        if cmp(text,"807")==0:
+                a = "\x27\x03"
+        if cmp(text,"808")==0:
+                a = "\x28\x03"
+        if cmp(text,"809")==0:
+                a = "\x29\x03"
+        if cmp(text,"810")==0:
+                a = "\x2a\x03"
+        if cmp(text,"811")==0:
+                a = "\x2b\x03"
+        if cmp(text,"812")==0:
+                a = "\x2c\x03"
+        if cmp(text,"813")==0:
+                a = "\x2d\x03"
+        if cmp(text,"814")==0:
+                a = "\x2e\x03"
+        if cmp(text,"815")==0:
+                a = "\x2f\x03"
+        if cmp(text,"816")==0:
+                a = "\x30\x03"
+        if cmp(text,"817")==0:
+                a = "\x31\x03"
+        if cmp(text,"818")==0:
+                a = "\x32\x03"
+        if cmp(text,"819")==0:
+                a = "\x33\x03"
+        if cmp(text,"820")==0:
+                a = "\x34\x03"
+        if cmp(text,"821")==0:
+                a = "\x35\x03"
+        if cmp(text,"822")==0:
+                a = "\x36\x03"
+        if cmp(text,"823")==0:
+                a = "\x37\x03"
+        if cmp(text,"824")==0:
+                a = "\x38\x03"
+        if cmp(text,"825")==0:
+                a = "\x39\x03"
+        if cmp(text,"826")==0:
+                a = "\x3a\x03"
+        if cmp(text,"827")==0:
+                a = "\x3b\x03"
+        if cmp(text,"828")==0:
+                a = "\x3c\x03"
+        if cmp(text,"829")==0:
+                a = "\x3d\x03"
+        if cmp(text,"830")==0:
+                a = "\x3e\x03"
+        if cmp(text,"831")==0:
+                a = "\x3f\x03"
+        if cmp(text,"832")==0:
+                a = "\x40\x03"
+        if cmp(text,"833")==0:
+                a = "\x41\x03"
+        if cmp(text,"834")==0:
+                a = "\x42\x03"
+        if cmp(text,"835")==0:
+                a = "\x43\x03"
+        if cmp(text,"836")==0:
+                a = "\x44\x03"
+        if cmp(text,"837")==0:
+                a = "\x45\x03"
+        if cmp(text,"838")==0:
+                a = "\x46\x03"
+        if cmp(text,"839")==0:
+                a = "\x47\x03"
+        if cmp(text,"840")==0:
+                a = "\x48\x03"
+        if cmp(text,"841")==0:
+                a = "\x49\x03"
+        if cmp(text,"842")==0:
+                a = "\x4a\x03"
+        if cmp(text,"843")==0:
+                a = "\x4b\x03"
+        if cmp(text,"844")==0:
+                a = "\x4c\x03"
+        if cmp(text,"845")==0:
+                a = "\x4d\x03"
+        if cmp(text,"846")==0:
+                a = "\x4e\x03"
+        if cmp(text,"847")==0:
+                a = "\x4f\x03"
+        if cmp(text,"848")==0:
+                a = "\x50\x03"
+        if cmp(text,"849")==0:
+                a = "\x51\x03"
+        if cmp(text,"850")==0:
+                a = "\x52\x03"
+        if cmp(text,"851")==0:
+                a = "\x53\x03"
+        if cmp(text,"852")==0:
+                a = "\x54\x03"
+        if cmp(text,"853")==0:
+                a = "\x55\x03"
+        if cmp(text,"854")==0:
+                a = "\x56\x03"
+        if cmp(text,"855")==0:
+                a = "\x57\x03"
+        if cmp(text,"856")==0:
+                a = "\x58\x03"
+        if cmp(text,"857")==0:
+                a = "\x59\x03"
+        if cmp(text,"858")==0:
+                a = "\x5a\x03"
+        if cmp(text,"859")==0:
+                a = "\x5b\x03"
+        if cmp(text,"860")==0:
+                a = "\x5c\x03"
+        if cmp(text,"861")==0:
+                a = "\x5d\x03"
+        if cmp(text,"862")==0:
+                a = "\x5e\x03"
+        if cmp(text,"863")==0:
+                a = "\x5f\x03"
+        if cmp(text,"864")==0:
+                a = "\x60\x03"
+        if cmp(text,"865")==0:
+                a = "\x61\x03"
+        if cmp(text,"866")==0:
+                a = "\x62\x03"
+        if cmp(text,"867")==0:
+                a = "\x63\x03"
+        if cmp(text,"868")==0:
+                a = "\x64\x03"
+        if cmp(text,"869")==0:
+                a = "\x65\x03"
+        if cmp(text,"870")==0:
+                a = "\x66\x03"
+        if cmp(text,"871")==0:
+                a = "\x67\x03"
+        if cmp(text,"872")==0:
+                a = "\x68\x03"
+        if cmp(text,"873")==0:
+                a = "\x69\x03"
+        if cmp(text,"874")==0:
+                a = "\x6a\x03"
+        if cmp(text,"875")==0:
+                a = "\x6b\x03"
+        if cmp(text,"876")==0:
+                a = "\x6c\x03"
+        if cmp(text,"877")==0:
+                a = "\x6d\x03"
+        if cmp(text,"878")==0:
+                a = "\x6e\x03"
+        if cmp(text,"879")==0:
+                a = "\x6f\x03"
+        if cmp(text,"880")==0:
+                a = "\x70\x03"
+        if cmp(text,"881")==0:
+                a = "\x71\x03"
+        if cmp(text,"882")==0:
+                a = "\x72\x03"
+        if cmp(text,"883")==0:
+                a = "\x73\x03"
+        if cmp(text,"884")==0:
+                a = "\x74\x03"
+        if cmp(text,"885")==0:
+                a = "\x75\x03"
+        if cmp(text,"886")==0:
+                a = "\x76\x03"
+        if cmp(text,"887")==0:
+                a = "\x77\x03"
+        if cmp(text,"888")==0:
+                a = "\x78\x03"
+        if cmp(text,"889")==0:
+                a = "\x79\x03"
+        if cmp(text,"890")==0:
+                a = "\x7a\x03"
+        if cmp(text,"891")==0:
+                a = "\x7b\x03"
+        if cmp(text,"892")==0:
+                a = "\x7c\x03"
+        if cmp(text,"893")==0:
+                a = "\x7d\x03"
+        if cmp(text,"894")==0:
+                a = "\x7e\x03"
+        if cmp(text,"895")==0:
+                a = "\x7f\x03"
+        if cmp(text,"896")==0:
+                a = "\x80\x03"
+        if cmp(text,"897")==0:
+                a = "\x81\x03"
+        if cmp(text,"898")==0:
+                a = "\x82\x03"
+        if cmp(text,"899")==0:
+                a = "\x83\x03"
+        if cmp(text,"900")==0:
+                a = "\x84\x03"
+        if cmp(text,"901")==0:
+                a = "\x85\x03"
+        if cmp(text,"902")==0:
+                a = "\x86\x03"
+        if cmp(text,"903")==0:
+                a = "\x87\x03"
+        if cmp(text,"904")==0:
+                a = "\x88\x03"
+        if cmp(text,"905")==0:
+                a = "\x89\x03"
+        if cmp(text,"906")==0:
+                a = "\x8a\x03"
+        if cmp(text,"907")==0:
+                a = "\x8b\x03"
+        if cmp(text,"908")==0:
+                a = "\x8c\x03"
+        if cmp(text,"909")==0:
+                a = "\x8d\x03"
+        if cmp(text,"910")==0:
+                a = "\x8e\x03"
+        if cmp(text,"911")==0:
+                a = "\x8f\x03"
+        if cmp(text,"912")==0:
+                a = "\x90\x03"
+        if cmp(text,"913")==0:
+                a = "\x91\x03"
+        if cmp(text,"914")==0:
+                a = "\x92\x03"
+        if cmp(text,"915")==0:
+                a = "\x93\x03"
+        if cmp(text,"916")==0:
+                a = "\x94\x03"
+        if cmp(text,"917")==0:
+                a = "\x95\x03"
+        if cmp(text,"918")==0:
+                a = "\x96\x03"
+        if cmp(text,"919")==0:
+                a = "\x97\x03"
+        if cmp(text,"920")==0:
+                a = "\x98\x03"
+        if cmp(text,"921")==0:
+                a = "\x99\x03"
+        if cmp(text,"922")==0:
+                a = "\x9a\x03"
+        if cmp(text,"923")==0:
+                a = "\x9b\x03"
+        if cmp(text,"924")==0:
+                a = "\x9c\x03"
+        if cmp(text,"925")==0:
+                a = "\x9d\x03"
+        if cmp(text,"926")==0:
+                a = "\x9e\x03"
+        if cmp(text,"927")==0:
+                a = "\x9f\x03"
+        if cmp(text,"928")==0:
+                a = "\xa0\x03"
+        if cmp(text,"929")==0:
+                a = "\xa1\x03"
+        if cmp(text,"930")==0:
+                a = "\xa2\x03"
+        if cmp(text,"931")==0:
+                a = "\xa3\x03"
+        if cmp(text,"932")==0:
+                a = "\xa4\x03"
+        if cmp(text,"933")==0:
+                a = "\xa5\x03"
+        if cmp(text,"934")==0:
+                a = "\xa6\x03"
+        if cmp(text,"935")==0:
+                a = "\xa7\x03"
+        if cmp(text,"936")==0:
+                a = "\xa8\x03"
+        if cmp(text,"937")==0:
+                a = "\xa9\x03"
+        if cmp(text,"938")==0:
+                a = "\xaa\x03"
+        if cmp(text,"939")==0:
+                a = "\xab\x03"
+        if cmp(text,"940")==0:
+                a = "\xac\x03"
+        if cmp(text,"941")==0:
+                a = "\xad\x03"
+        if cmp(text,"942")==0:
+                a = "\xae\x03"
+        if cmp(text,"943")==0:
+                a = "\xaf\x03"
+        if cmp(text,"944")==0:
+                a = "\xb0\x03"
+        if cmp(text,"945")==0:
+                a = "\xb1\x03"
+        if cmp(text,"946")==0:
+                a = "\xb2\x03"
+        if cmp(text,"947")==0:
+                a = "\xb3\x03"
+        if cmp(text,"948")==0:
+                a = "\xb4\x03"
+        if cmp(text,"949")==0:
+                a = "\xb5\x03"
+        if cmp(text,"950")==0:
+                a = "\xb6\x03"
+        if cmp(text,"951")==0:
+                a = "\xb7\x03"
+        if cmp(text,"952")==0:
+                a = "\xb8\x03"
+        if cmp(text,"953")==0:
+                a = "\xb9\x03"
+        if cmp(text,"954")==0:
+                a = "\xba\x03"
+        if cmp(text,"955")==0:
+                a = "\xbb\x03"
+        if cmp(text,"956")==0:
+                a = "\xbc\x03"
+        if cmp(text,"957")==0:
+                a = "\xbd\x03"
+        if cmp(text,"958")==0:
+                a = "\xbe\x03"
+        if cmp(text,"959")==0:
+                a = "\xbf\x03"
+        if cmp(text,"960")==0:
+                a = "\xc0\x03"
+        if cmp(text,"961")==0:
+                a = "\xc1\x03"
+        if cmp(text,"962")==0:
+                a = "\xc2\x03"
+        if cmp(text,"963")==0:
+                a = "\xc3\x03"
+        if cmp(text,"964")==0:
+                a = "\xc4\x03"
+        if cmp(text,"965")==0:
+                a = "\xc5\x03"
+        if cmp(text,"966")==0:
+                a = "\xc6\x03"
+        if cmp(text,"967")==0:
+                a = "\xc7\x03"
+        if cmp(text,"968")==0:
+                a = "\xc8\x03"
+        if cmp(text,"969")==0:
+                a = "\xc9\x03"
+        if cmp(text,"970")==0:
+                a = "\xca\x03"
+        if cmp(text,"971")==0:
+                a = "\xcb\x03"
+        if cmp(text,"972")==0:
+                a = "\xcc\x03"
+        if cmp(text,"973")==0:
+                a = "\xcd\x03"
+        if cmp(text,"974")==0:
+                a = "\xce\x03"
+        if cmp(text,"975")==0:
+                a = "\xcf\x03"
+        if cmp(text,"976")==0:
+                a = "\xd0\x03"
+        if cmp(text,"977")==0:
+                a = "\xd1\x03"
+        if cmp(text,"978")==0:
+                a = "\xd2\x03"
+        if cmp(text,"979")==0:
+                a = "\xd3\x03"
+        if cmp(text,"980")==0:
+                a = "\xd4\x03"
+        if cmp(text,"981")==0:
+                a = "\xd5\x03"
+        if cmp(text,"982")==0:
+                a = "\xd6\x03"
+        if cmp(text,"983")==0:
+                a = "\xd7\x03"
+        if cmp(text,"984")==0:
+                a = "\xd8\x03"
+        if cmp(text,"985")==0:
+                a = "\xd9\x03"
+        if cmp(text,"986")==0:
+                a = "\xda\x03"
+        if cmp(text,"987")==0:
+                a = "\xdb\x03"
+        if cmp(text,"988")==0:
+                a = "\xdc\x03"
+        if cmp(text,"989")==0:
+                a = "\xdd\x03"
+        if cmp(text,"990")==0:
+                a = "\xde\x03"
+        if cmp(text,"991")==0:
+                a = "\xdf\x03"
+        if cmp(text,"992")==0:
+                a = "\xe0\x03"
+        if cmp(text,"993")==0:
+                a = "\xe1\x03"
+        if cmp(text,"994")==0:
+                a = "\xe2\x03"
+        if cmp(text,"995")==0:
+                a = "\xe3\x03"
+        if cmp(text,"996")==0:
+                a = "\xe4\x03"
+        if cmp(text,"997")==0:
+                a = "\xe5\x03"
+        if cmp(text,"998")==0:
+                a = "\xe6\x03"
+        if cmp(text,"999")==0:
+                a = "\xe7\x03"
+        if cmp(text,"1000")==0:
+                a = "\xe8\x03"
+        if cmp(text,"1001")==0:
+                a = "\xe9\x03"
+        if cmp(text,"1002")==0:
+                a = "\xea\x03"
+        if cmp(text,"1003")==0:
+                a = "\xeb\x03"
+        if cmp(text,"1004")==0:
+                a = "\xec\x03"
+        if cmp(text,"1005")==0:
+                a = "\xed\x03"
+        if cmp(text,"1006")==0:
+                a = "\xee\x03"
+        if cmp(text,"1007")==0:
+                a = "\xef\x03"
+        if cmp(text,"1008")==0:
+                a = "\xf0\x03"
+        if cmp(text,"1009")==0:
+                a = "\xf1\x03"
+        if cmp(text,"1010")==0:
+                a = "\xf2\x03"
+        if cmp(text,"1011")==0:
+                a = "\xf3\x03"
+        if cmp(text,"1012")==0:
+                a = "\xf4\x03"
+        if cmp(text,"1013")==0:
+                a = "\xf5\x03"
+        if cmp(text,"1014")==0:
+                a = "\xf6\x03"
+        if cmp(text,"1015")==0:
+                a = "\xf7\x03"
+        if cmp(text,"1016")==0:
+                a = "\xf8\x03"
+        if cmp(text,"1017")==0:
+                a = "\xf9\x03"
+        if cmp(text,"1018")==0:
+                a = "\xfa\x03"
+        if cmp(text,"1019")==0:
+                a = "\xfb\x03"
+        if cmp(text,"1020")==0:
+                a = "\xfc\x03"
+        if cmp(text,"1021")==0:
+                a = "\xfd\x03"
+        if cmp(text,"1022")==0:
+                a = "\xfe\x03"
+        if cmp(text,"1023")==0:
+                a = "\xff\x03"
+        if cmp(text,"1024")==0:
+                a = "\x00\x04"
+        if cmp(text,"1025")==0:
+                a = "\x01\x04"
+        if cmp(text,"1026")==0:
+                a = "\x02\x04"
+        if cmp(text,"1027")==0:
+                a = "\x03\x04"
+        if cmp(text,"1028")==0:
+                a = "\x04\x04"
+        if cmp(text,"1029")==0:
+                a = "\x05\x04"
+        if cmp(text,"1030")==0:
+                a = "\x06\x04"
+        if cmp(text,"1031")==0:
+                a = "\x07\x04"
+        if cmp(text,"1032")==0:
+                a = "\x08\x04"
+        if cmp(text,"1033")==0:
+                a = "\x09\x04"
+        if cmp(text,"1034")==0:
+                a = "\x0a\x04"
+        if cmp(text,"1035")==0:
+                a = "\x0b\x04"
+        if cmp(text,"1036")==0:
+                a = "\x0c\x04"
+        if cmp(text,"1037")==0:
+                a = "\x0d\x04"
+        if cmp(text,"1038")==0:
+                a = "\x0e\x04"
+        if cmp(text,"1039")==0:
+                a = "\x0f\x04"
+        if cmp(text,"1040")==0:
+                a = "\x10\x04"
+        if cmp(text,"1041")==0:
+                a = "\x11\x04"
+        if cmp(text,"1042")==0:
+                a = "\x12\x04"
+        if cmp(text,"1043")==0:
+                a = "\x13\x04"
+        if cmp(text,"1044")==0:
+                a = "\x14\x04"
+        if cmp(text,"1045")==0:
+                a = "\x15\x04"
+        if cmp(text,"1046")==0:
+                a = "\x16\x04"
+        if cmp(text,"1047")==0:
+                a = "\x17\x04"
+        if cmp(text,"1048")==0:
+                a = "\x18\x04"
+        if cmp(text,"1049")==0:
+                a = "\x19\x04"
+        if cmp(text,"1050")==0:
+                a = "\x1a\x04"
+        if cmp(text,"1051")==0:
+                a = "\x1b\x04"
+        if cmp(text,"1052")==0:
+                a = "\x1c\x04"
+        if cmp(text,"1053")==0:
+                a = "\x1d\x04"
+        if cmp(text,"1054")==0:
+                a = "\x1e\x04"
+        if cmp(text,"1055")==0:
+                a = "\x1f\x04"
+        if cmp(text,"1056")==0:
+                a = "\x20\x04"
+        if cmp(text,"1057")==0:
+                a = "\x21\x04"
+        if cmp(text,"1058")==0:
+                a = "\x22\x04"
+        if cmp(text,"1059")==0:
+                a = "\x23\x04"
+        if cmp(text,"1060")==0:
+                a = "\x24\x04"
+        if cmp(text,"1061")==0:
+                a = "\x25\x04"
+        if cmp(text,"1062")==0:
+                a = "\x26\x04"
+        if cmp(text,"1063")==0:
+                a = "\x27\x04"
+        if cmp(text,"1064")==0:
+                a = "\x28\x04"
+        if cmp(text,"1065")==0:
+                a = "\x29\x04"
+        if cmp(text,"1066")==0:
+                a = "\x2a\x04"
+        if cmp(text,"1067")==0:
+                a = "\x2b\x04"
+        if cmp(text,"1068")==0:
+                a = "\x2c\x04"
+        if cmp(text,"1069")==0:
+                a = "\x2d\x04"
+        if cmp(text,"1070")==0:
+                a = "\x2e\x04"
+        if cmp(text,"1071")==0:
+                a = "\x2f\x04"
+        if cmp(text,"1072")==0:
+                a = "\x30\x04"
+        if cmp(text,"1073")==0:
+                a = "\x31\x04"
+        if cmp(text,"1074")==0:
+                a = "\x32\x04"
+        if cmp(text,"1075")==0:
+                a = "\x33\x04"
+        if cmp(text,"1076")==0:
+                a = "\x34\x04"
+        if cmp(text,"1077")==0:
+                a = "\x35\x04"
+        if cmp(text,"1078")==0:
+                a = "\x36\x04"
+        if cmp(text,"1079")==0:
+                a = "\x37\x04"
+        if cmp(text,"1080")==0:
+                a = "\x38\x04"
+        if cmp(text,"1081")==0:
+                a = "\x39\x04"
+        if cmp(text,"1082")==0:
+                a = "\x3a\x04"
+        if cmp(text,"1083")==0:
+                a = "\x3b\x04"
+        if cmp(text,"1084")==0:
+                a = "\x3c\x04"
+        if cmp(text,"1085")==0:
+                a = "\x3d\x04"
+        if cmp(text,"1086")==0:
+                a = "\x3e\x04"
+        if cmp(text,"1087")==0:
+                a = "\x3f\x04"
+        if cmp(text,"1088")==0:
+                a = "\x40\x04"
+        if cmp(text,"1089")==0:
+                a = "\x41\x04"
+        if cmp(text,"1090")==0:
+                a = "\x42\x04"
+        if cmp(text,"1091")==0:
+                a = "\x43\x04"
+        if cmp(text,"1092")==0:
+                a = "\x44\x04"
+        if cmp(text,"1093")==0:
+                a = "\x45\x04"
+        if cmp(text,"1094")==0:
+                a = "\x46\x04"
+        if cmp(text,"1095")==0:
+                a = "\x47\x04"
+        if cmp(text,"1096")==0:
+                a = "\x48\x04"
+        if cmp(text,"1097")==0:
+                a = "\x49\x04"
+        if cmp(text,"1098")==0:
+                a = "\x4a\x04"
+        if cmp(text,"1099")==0:
+                a = "\x4b\x04"
+        if cmp(text,"1100")==0:
+                a = "\x4c\x04"
+        if cmp(text,"1101")==0:
+                a = "\x4d\x04"
+        if cmp(text,"1102")==0:
+                a = "\x4e\x04"
+        if cmp(text,"1103")==0:
+                a = "\x4f\x04"
+        if cmp(text,"1104")==0:
+                a = "\x50\x04"
+        if cmp(text,"1105")==0:
+                a = "\x51\x04"
+        if cmp(text,"1106")==0:
+                a = "\x52\x04"
+        if cmp(text,"1107")==0:
+                a = "\x53\x04"
+        if cmp(text,"1108")==0:
+                a = "\x54\x04"
+        if cmp(text,"1109")==0:
+                a = "\x55\x04"
+        if cmp(text,"1110")==0:
+                a = "\x56\x04"
+        if cmp(text,"1111")==0:
+                a = "\x57\x04"
+        if cmp(text,"1112")==0:
+                a = "\x58\x04"
+        if cmp(text,"1113")==0:
+                a = "\x59\x04"
+        if cmp(text,"1114")==0:
+                a = "\x5a\x04"
+        if cmp(text,"1115")==0:
+                a = "\x5b\x04"
+        if cmp(text,"1116")==0:
+                a = "\x5c\x04"
+        if cmp(text,"1117")==0:
+                a = "\x5d\x04"
+        if cmp(text,"1118")==0:
+                a = "\x5e\x04"
+        if cmp(text,"1119")==0:
+                a = "\x5f\x04"
+        if cmp(text,"1120")==0:
+                a = "\x60\x04"
+        if cmp(text,"1121")==0:
+                a = "\x61\x04"
+        if cmp(text,"1122")==0:
+                a = "\x62\x04"
+        if cmp(text,"1123")==0:
+                a = "\x63\x04"
+        if cmp(text,"1124")==0:
+                a = "\x64\x04"
+        if cmp(text,"1125")==0:
+                a = "\x65\x04"
+        if cmp(text,"1126")==0:
+                a = "\x66\x04"
+        if cmp(text,"1127")==0:
+                a = "\x67\x04"
+        if cmp(text,"1128")==0:
+                a = "\x68\x04"
+        if cmp(text,"1129")==0:
+                a = "\x69\x04"
+        if cmp(text,"1130")==0:
+                a = "\x6a\x04"
+        if cmp(text,"1131")==0:
+                a = "\x6b\x04"
+        if cmp(text,"1132")==0:
+                a = "\x6c\x04"
+        if cmp(text,"1133")==0:
+                a = "\x6d\x04"
+        if cmp(text,"1134")==0:
+                a = "\x6e\x04"
+        if cmp(text,"1135")==0:
+                a = "\x6f\x04"
+        if cmp(text,"1136")==0:
+                a = "\x70\x04"
+        if cmp(text,"1137")==0:
+                a = "\x71\x04"
+        if cmp(text,"1138")==0:
+                a = "\x72\x04"
+        if cmp(text,"1139")==0:
+                a = "\x73\x04"
+        if cmp(text,"1140")==0:
+                a = "\x74\x04"
+        if cmp(text,"1141")==0:
+                a = "\x75\x04"
+        if cmp(text,"1142")==0:
+                a = "\x76\x04"
+        if cmp(text,"1143")==0:
+                a = "\x77\x04"
+        if cmp(text,"1144")==0:
+                a = "\x78\x04"
+        if cmp(text,"1145")==0:
+                a = "\x79\x04"
+        if cmp(text,"1146")==0:
+                a = "\x7a\x04"
+        if cmp(text,"1147")==0:
+                a = "\x7b\x04"
+        if cmp(text,"1148")==0:
+                a = "\x7c\x04"
+        if cmp(text,"1149")==0:
+                a = "\x7d\x04"
+        if cmp(text,"1150")==0:
+                a = "\x7e\x04"
+        if cmp(text,"1151")==0:
+                a = "\x7f\x04"
+        if cmp(text,"1152")==0:
+                a = "\x80\x04"
+        if cmp(text,"1153")==0:
+                a = "\x81\x04"
+        if cmp(text,"1154")==0:
+                a = "\x82\x04"
+        if cmp(text,"1155")==0:
+                a = "\x83\x04"
+        if cmp(text,"1156")==0:
+                a = "\x84\x04"
+        if cmp(text,"1157")==0:
+                a = "\x85\x04"
+        if cmp(text,"1158")==0:
+                a = "\x86\x04"
+        if cmp(text,"1159")==0:
+                a = "\x87\x04"
+        if cmp(text,"1160")==0:
+                a = "\x88\x04"
+        if cmp(text,"1161")==0:
+                a = "\x89\x04"
+        if cmp(text,"1162")==0:
+                a = "\x8a\x04"
+        if cmp(text,"1163")==0:
+                a = "\x8b\x04"
+        if cmp(text,"1164")==0:
+                a = "\x8c\x04"
+        if cmp(text,"1165")==0:
+                a = "\x8d\x04"
+        if cmp(text,"1166")==0:
+                a = "\x8e\x04"
+        if cmp(text,"1167")==0:
+                a = "\x8f\x04"
+        if cmp(text,"1168")==0:
+                a = "\x90\x04"
+        if cmp(text,"1169")==0:
+                a = "\x91\x04"
+        if cmp(text,"1170")==0:
+                a = "\x92\x04"
+        if cmp(text,"1171")==0:
+                a = "\x93\x04"
+        if cmp(text,"1172")==0:
+                a = "\x94\x04"
+        if cmp(text,"1173")==0:
+                a = "\x95\x04"
+        if cmp(text,"1174")==0:
+                a = "\x96\x04"
+        if cmp(text,"1175")==0:
+                a = "\x97\x04"
+        if cmp(text,"1176")==0:
+                a = "\x98\x04"
+        if cmp(text,"1177")==0:
+                a = "\x99\x04"
+        if cmp(text,"1178")==0:
+                a = "\x9a\x04"
+        if cmp(text,"1179")==0:
+                a = "\x9b\x04"
+        if cmp(text,"1180")==0:
+                a = "\x9c\x04"
+        if cmp(text,"1181")==0:
+                a = "\x9d\x04"
+        if cmp(text,"1182")==0:
+                a = "\x9e\x04"
+        if cmp(text,"1183")==0:
+                a = "\x9f\x04"
+        if cmp(text,"1184")==0:
+                a = "\xa0\x04"
+        if cmp(text,"1185")==0:
+                a = "\xa1\x04"
+        if cmp(text,"1186")==0:
+                a = "\xa2\x04"
+        if cmp(text,"1187")==0:
+                a = "\xa3\x04"
+        if cmp(text,"1188")==0:
+                a = "\xa4\x04"
+        if cmp(text,"1189")==0:
+                a = "\xa5\x04"
+        if cmp(text,"1190")==0:
+                a = "\xa6\x04"
+        if cmp(text,"1191")==0:
+                a = "\xa7\x04"
+        if cmp(text,"1192")==0:
+                a = "\xa8\x04"
+        if cmp(text,"1193")==0:
+                a = "\xa9\x04"
+        if cmp(text,"1194")==0:
+                a = "\xaa\x04"
+        if cmp(text,"1195")==0:
+                a = "\xab\x04"
+        if cmp(text,"1196")==0:
+                a = "\xac\x04"
+        if cmp(text,"1197")==0:
+                a = "\xad\x04"
+        if cmp(text,"1198")==0:
+                a = "\xae\x04"
+        if cmp(text,"1199")==0:
+                a = "\xaf\x04"
+        if cmp(text,"1200")==0:
+                a = "\xb0\x04"
+        if cmp(text,"1201")==0:
+                a = "\xb1\x04"
+        if cmp(text,"1202")==0:
+                a = "\xb2\x04"
+        if cmp(text,"1203")==0:
+                a = "\xb3\x04"
+        if cmp(text,"1204")==0:
+                a = "\xb4\x04"
+        if cmp(text,"1205")==0:
+                a = "\xb5\x04"
+        if cmp(text,"1206")==0:
+                a = "\xb6\x04"
+        if cmp(text,"1207")==0:
+                a = "\xb7\x04"
+        if cmp(text,"1208")==0:
+                a = "\xb8\x04"
+        if cmp(text,"1209")==0:
+                a = "\xb9\x04"
+        if cmp(text,"1210")==0:
+                a = "\xba\x04"
+        if cmp(text,"1211")==0:
+                a = "\xbb\x04"
+        if cmp(text,"1212")==0:
+                a = "\xbc\x04"
+        if cmp(text,"1213")==0:
+                a = "\xbd\x04"
+        if cmp(text,"1214")==0:
+                a = "\xbe\x04"
+        if cmp(text,"1215")==0:
+                a = "\xbf\x04"
+        if cmp(text,"1216")==0:
+                a = "\xc0\x04"
+        if cmp(text,"1217")==0:
+                a = "\xc1\x04"
+        if cmp(text,"1218")==0:
+                a = "\xc2\x04"
+        if cmp(text,"1219")==0:
+                a = "\xc3\x04"
+        if cmp(text,"1220")==0:
+                a = "\xc4\x04"
+        if cmp(text,"1221")==0:
+                a = "\xc5\x04"
+        if cmp(text,"1222")==0:
+                a = "\xc6\x04"
+        if cmp(text,"1223")==0:
+                a = "\xc7\x04"
+        if cmp(text,"1224")==0:
+                a = "\xc8\x04"
+        if cmp(text,"1225")==0:
+                a = "\xc9\x04"
+        if cmp(text,"1226")==0:
+                a = "\xca\x04"
+        if cmp(text,"1227")==0:
+                a = "\xcb\x04"
+        if cmp(text,"1228")==0:
+                a = "\xcc\x04"
+        if cmp(text,"1229")==0:
+                a = "\xcd\x04"
+        if cmp(text,"1230")==0:
+                a = "\xce\x04"
+        if cmp(text,"1231")==0:
+                a = "\xcf\x04"
+        if cmp(text,"1232")==0:
+                a = "\xd0\x04"
+        if cmp(text,"1233")==0:
+                a = "\xd1\x04"
+        if cmp(text,"1234")==0:
+                a = "\xd2\x04"
+        if cmp(text,"1235")==0:
+                a = "\xd3\x04"
+        if cmp(text,"1236")==0:
+                a = "\xd4\x04"
+        if cmp(text,"1237")==0:
+                a = "\xd5\x04"
+        if cmp(text,"1238")==0:
+                a = "\xd6\x04"
+        if cmp(text,"1239")==0:
+                a = "\xd7\x04"
+        if cmp(text,"1240")==0:
+                a = "\xd8\x04"
+        if cmp(text,"1241")==0:
+                a = "\xd9\x04"
+        if cmp(text,"1242")==0:
+                a = "\xda\x04"
+        if cmp(text,"1243")==0:
+                a = "\xdb\x04"
+        if cmp(text,"1244")==0:
+                a = "\xdc\x04"
+        if cmp(text,"1245")==0:
+                a = "\xdd\x04"
+        if cmp(text,"1246")==0:
+                a = "\xde\x04"
+        if cmp(text,"1247")==0:
+                a = "\xdf\x04"
+        if cmp(text,"1248")==0:
+                a = "\xe0\x04"
+        if cmp(text,"1249")==0:
+                a = "\xe1\x04"
+        if cmp(text,"1250")==0:
+                a = "\xe2\x04"
+        if cmp(text,"1251")==0:
+                a = "\xe3\x04"
+        if cmp(text,"1252")==0:
+                a = "\xe4\x04"
+        if cmp(text,"1253")==0:
+                a = "\xe5\x04"
+        if cmp(text,"1254")==0:
+                a = "\xe6\x04"
+        if cmp(text,"1255")==0:
+                a = "\xe7\x04"
+        if cmp(text,"1256")==0:
+                a = "\xe8\x04"
+        if cmp(text,"1257")==0:
+                a = "\xe9\x04"
+        if cmp(text,"1258")==0:
+                a = "\xea\x04"
+        if cmp(text,"1259")==0:
+                a = "\xeb\x04"
+        if cmp(text,"1260")==0:
+                a = "\xec\x04"
+        if cmp(text,"1261")==0:
+                a = "\xed\x04"
+        if cmp(text,"1262")==0:
+                a = "\xee\x04"
+        if cmp(text,"1263")==0:
+                a = "\xef\x04"
+        if cmp(text,"1264")==0:
+                a = "\xf0\x04"
+        if cmp(text,"1265")==0:
+                a = "\xf1\x04"
+        if cmp(text,"1266")==0:
+                a = "\xf2\x04"
+        if cmp(text,"1267")==0:
+                a = "\xf3\x04"
+        if cmp(text,"1268")==0:
+                a = "\xf4\x04"
+        if cmp(text,"1269")==0:
+                a = "\xf5\x04"
+        if cmp(text,"1270")==0:
+                a = "\xf6\x04"
+        if cmp(text,"1271")==0:
+                a = "\xf7\x04"
+        if cmp(text,"1272")==0:
+                a = "\xf8\x04"
+        if cmp(text,"1273")==0:
+                a = "\xf9\x04"
+        if cmp(text,"1274")==0:
+                a = "\xfa\x04"
+        if cmp(text,"1275")==0:
+                a = "\xfb\x04"
+        if cmp(text,"1276")==0:
+                a = "\xfc\x04"
+        if cmp(text,"1277")==0:
+                a = "\xfd\x04"
+        if cmp(text,"1278")==0:
+                a = "\xfe\x04"
+        if cmp(text,"1279")==0:
+                a = "\xff\x04"
+        if cmp(text,"1280")==0:
+                a = "\x00\x05"
+        if cmp(text,"1281")==0:
+                a = "\x01\x05"
+        if cmp(text,"1282")==0:
+                a = "\x02\x05"
+        if cmp(text,"1283")==0:
+                a = "\x03\x05"
+        if cmp(text,"1284")==0:
+                a = "\x04\x05"
+        if cmp(text,"1285")==0:
+                a = "\x05\x05"
+        if cmp(text,"1286")==0:
+                a = "\x06\x05"
+        if cmp(text,"1287")==0:
+                a = "\x07\x05"
+        if cmp(text,"1288")==0:
+                a = "\x08\x05"
+        if cmp(text,"1289")==0:
+                a = "\x09\x05"
+        if cmp(text,"1290")==0:
+                a = "\x0a\x05"
+        if cmp(text,"1291")==0:
+                a = "\x0b\x05"
+        if cmp(text,"1292")==0:
+                a = "\x0c\x05"
+        if cmp(text,"1293")==0:
+                a = "\x0d\x05"
+        if cmp(text,"1294")==0:
+                a = "\x0e\x05"
+        if cmp(text,"1295")==0:
+                a = "\x0f\x05"
+        if cmp(text,"1296")==0:
+                a = "\x10\x05"
+        if cmp(text,"1297")==0:
+                a = "\x11\x05"
+        if cmp(text,"1298")==0:
+                a = "\x12\x05"
+        if cmp(text,"1299")==0:
+                a = "\x13\x05"
+        if cmp(text,"1300")==0:
+                a = "\x14\x05"
+        if cmp(text,"1301")==0:
+                a = "\x15\x05"
+        if cmp(text,"1302")==0:
+                a = "\x16\x05"
+        if cmp(text,"1303")==0:
+                a = "\x17\x05"
+        if cmp(text,"1304")==0:
+                a = "\x18\x05"
+        if cmp(text,"1305")==0:
+                a = "\x19\x05"
+        if cmp(text,"1306")==0:
+                a = "\x1a\x05"
+        if cmp(text,"1307")==0:
+                a = "\x1b\x05"
+        if cmp(text,"1308")==0:
+                a = "\x1c\x05"
+        if cmp(text,"1309")==0:
+                a = "\x1d\x05"
+        if cmp(text,"1310")==0:
+                a = "\x1e\x05"
+        if cmp(text,"1311")==0:
+                a = "\x1f\x05"
+        if cmp(text,"1312")==0:
+                a = "\x20\x05"
+        if cmp(text,"1313")==0:
+                a = "\x21\x05"
+        if cmp(text,"1314")==0:
+                a = "\x22\x05"
+        if cmp(text,"1315")==0:
+                a = "\x23\x05"
+        if cmp(text,"1316")==0:
+                a = "\x24\x05"
+        if cmp(text,"1317")==0:
+                a = "\x25\x05"
+        if cmp(text,"1318")==0:
+                a = "\x26\x05"
+        if cmp(text,"1319")==0:
+                a = "\x27\x05"
+        if cmp(text,"1320")==0:
+                a = "\x28\x05"
+        if cmp(text,"1321")==0:
+                a = "\x29\x05"
+        if cmp(text,"1322")==0:
+                a = "\x2a\x05"
+        if cmp(text,"1323")==0:
+                a = "\x2b\x05"
+        if cmp(text,"1324")==0:
+                a = "\x2c\x05"
+        if cmp(text,"1325")==0:
+                a = "\x2d\x05"
+        if cmp(text,"1326")==0:
+                a = "\x2e\x05"
+        if cmp(text,"1327")==0:
+                a = "\x2f\x05"
+        if cmp(text,"1328")==0:
+                a = "\x30\x05"
+        if cmp(text,"1329")==0:
+                a = "\x31\x05"
+        if cmp(text,"1330")==0:
+                a = "\x32\x05"
+        if cmp(text,"1331")==0:
+                a = "\x33\x05"
+        if cmp(text,"1332")==0:
+                a = "\x34\x05"
+        if cmp(text,"1333")==0:
+                a = "\x35\x05"
+        if cmp(text,"1334")==0:
+                a = "\x36\x05"
+        if cmp(text,"1335")==0:
+                a = "\x37\x05"
+        if cmp(text,"1336")==0:
+                a = "\x38\x05"
+        if cmp(text,"1337")==0:
+                a = "\x39\x05"
+        if cmp(text,"1338")==0:
+                a = "\x3a\x05"
+        if cmp(text,"1339")==0:
+                a = "\x3b\x05"
+        if cmp(text,"1340")==0:
+                a = "\x3c\x05"
+        if cmp(text,"1341")==0:
+                a = "\x3d\x05"
+        if cmp(text,"1342")==0:
+                a = "\x3e\x05"
+        if cmp(text,"1343")==0:
+                a = "\x3f\x05"
+        if cmp(text,"1344")==0:
+                a = "\x40\x05"
+        if cmp(text,"1345")==0:
+                a = "\x41\x05"
+        if cmp(text,"1346")==0:
+                a = "\x42\x05"
+        if cmp(text,"1347")==0:
+                a = "\x43\x05"
+        if cmp(text,"1348")==0:
+                a = "\x44\x05"
+        if cmp(text,"1349")==0:
+                a = "\x45\x05"
+        if cmp(text,"1350")==0:
+                a = "\x46\x05"
+        if cmp(text,"1351")==0:
+                a = "\x47\x05"
+        if cmp(text,"1352")==0:
+                a = "\x48\x05"
+        if cmp(text,"1353")==0:
+                a = "\x49\x05"
+        if cmp(text,"1354")==0:
+                a = "\x4a\x05"
+        if cmp(text,"1355")==0:
+                a = "\x4b\x05"
+        if cmp(text,"1356")==0:
+                a = "\x4c\x05"
+        if cmp(text,"1357")==0:
+                a = "\x4d\x05"
+        if cmp(text,"1358")==0:
+                a = "\x4e\x05"
+        if cmp(text,"1359")==0:
+                a = "\x4f\x05"
+        if cmp(text,"1360")==0:
+                a = "\x50\x05"
+        if cmp(text,"1361")==0:
+                a = "\x51\x05"
+        if cmp(text,"1362")==0:
+                a = "\x52\x05"
+        if cmp(text,"1363")==0:
+                a = "\x53\x05"
+        if cmp(text,"1364")==0:
+                a = "\x54\x05"
+        if cmp(text,"1365")==0:
+                a = "\x55\x05"
+        if cmp(text,"1366")==0:
+                a = "\x56\x05"
+        if cmp(text,"1367")==0:
+                a = "\x57\x05"
+        if cmp(text,"1368")==0:
+                a = "\x58\x05"
+        if cmp(text,"1369")==0:
+                a = "\x59\x05"
+        if cmp(text,"1370")==0:
+                a = "\x5a\x05"
+        if cmp(text,"1371")==0:
+                a = "\x5b\x05"
+        if cmp(text,"1372")==0:
+                a = "\x5c\x05"
+        if cmp(text,"1373")==0:
+                a = "\x5d\x05"
+        if cmp(text,"1374")==0:
+                a = "\x5e\x05"
+        if cmp(text,"1375")==0:
+                a = "\x5f\x05"
+        if cmp(text,"1376")==0:
+                a = "\x60\x05"
+        if cmp(text,"1377")==0:
+                a = "\x61\x05"
+        if cmp(text,"1378")==0:
+                a = "\x62\x05"
+        if cmp(text,"1379")==0:
+                a = "\x63\x05"
+        if cmp(text,"1380")==0:
+                a = "\x64\x05"
+        if cmp(text,"1381")==0:
+                a = "\x65\x05"
+        if cmp(text,"1382")==0:
+                a = "\x66\x05"
+        if cmp(text,"1383")==0:
+                a = "\x67\x05"
+        if cmp(text,"1384")==0:
+                a = "\x68\x05"
+        if cmp(text,"1385")==0:
+                a = "\x69\x05"
+        if cmp(text,"1386")==0:
+                a = "\x6a\x05"
+        if cmp(text,"1387")==0:
+                a = "\x6b\x05"
+        if cmp(text,"1388")==0:
+                a = "\x6c\x05"
+        if cmp(text,"1389")==0:
+                a = "\x6d\x05"
+        if cmp(text,"1390")==0:
+                a = "\x6e\x05"
+        if cmp(text,"1391")==0:
+                a = "\x6f\x05"
+        if cmp(text,"1392")==0:
+                a = "\x70\x05"
+        if cmp(text,"1393")==0:
+                a = "\x71\x05"
+        if cmp(text,"1394")==0:
+                a = "\x72\x05"
+        if cmp(text,"1395")==0:
+                a = "\x73\x05"
+        if cmp(text,"1396")==0:
+                a = "\x74\x05"
+        if cmp(text,"1397")==0:
+                a = "\x75\x05"
+        if cmp(text,"1398")==0:
+                a = "\x76\x05"
+        if cmp(text,"1399")==0:
+                a = "\x77\x05"
+        if cmp(text,"1400")==0:
+                a = "\x78\x05"
+        if cmp(text,"1401")==0:
+                a = "\x79\x05"
+        if cmp(text,"1402")==0:
+                a = "\x7a\x05"
+        if cmp(text,"1403")==0:
+                a = "\x7b\x05"
+        if cmp(text,"1404")==0:
+                a = "\x7c\x05"
+        if cmp(text,"1405")==0:
+                a = "\x7d\x05"
+        if cmp(text,"1406")==0:
+                a = "\x7e\x05"
+        if cmp(text,"1407")==0:
+                a = "\x7f\x05"
+        if cmp(text,"1408")==0:
+                a = "\x80\x05"
+        if cmp(text,"1409")==0:
+                a = "\x81\x05"
+        if cmp(text,"1410")==0:
+                a = "\x82\x05"
+        if cmp(text,"1411")==0:
+                a = "\x83\x05"
+        if cmp(text,"1412")==0:
+                a = "\x84\x05"
+        if cmp(text,"1413")==0:
+                a = "\x85\x05"
+        if cmp(text,"1414")==0:
+                a = "\x86\x05"
+        if cmp(text,"1415")==0:
+                a = "\x87\x05"
+        if cmp(text,"1416")==0:
+                a = "\x88\x05"
+        if cmp(text,"1417")==0:
+                a = "\x89\x05"
+        if cmp(text,"1418")==0:
+                a = "\x8a\x05"
+        if cmp(text,"1419")==0:
+                a = "\x8b\x05"
+        if cmp(text,"1420")==0:
+                a = "\x8c\x05"
+        if cmp(text,"1421")==0:
+                a = "\x8d\x05"
+        if cmp(text,"1422")==0:
+                a = "\x8e\x05"
+        if cmp(text,"1423")==0:
+                a = "\x8f\x05"
+        if cmp(text,"1424")==0:
+                a = "\x90\x05"
+        if cmp(text,"1425")==0:
+                a = "\x91\x05"
+        if cmp(text,"1426")==0:
+                a = "\x92\x05"
+        if cmp(text,"1427")==0:
+                a = "\x93\x05"
+        if cmp(text,"1428")==0:
+                a = "\x94\x05"
+        if cmp(text,"1429")==0:
+                a = "\x95\x05"
+        if cmp(text,"1430")==0:
+                a = "\x96\x05"
+        if cmp(text,"1431")==0:
+                a = "\x97\x05"
+        if cmp(text,"1432")==0:
+                a = "\x98\x05"
+        if cmp(text,"1433")==0:
+                a = "\x99\x05"
+        if cmp(text,"1434")==0:
+                a = "\x9a\x05"
+        if cmp(text,"1435")==0:
+                a = "\x9b\x05"
+        if cmp(text,"1436")==0:
+                a = "\x9c\x05"
+        if cmp(text,"1437")==0:
+                a = "\x9d\x05"
+        if cmp(text,"1438")==0:
+                a = "\x9e\x05"
+        if cmp(text,"1439")==0:
+                a = "\x9f\x05"
+        if cmp(text,"1440")==0:
+                a = "\xa0\x05"
+        if cmp(text,"1441")==0:
+                a = "\xa1\x05"
+        if cmp(text,"1442")==0:
+                a = "\xa2\x05"
+        if cmp(text,"1443")==0:
+                a = "\xa3\x05"
+        if cmp(text,"1444")==0:
+                a = "\xa4\x05"
+        if cmp(text,"1445")==0:
+                a = "\xa5\x05"
+        if cmp(text,"1446")==0:
+                a = "\xa6\x05"
+        if cmp(text,"1447")==0:
+                a = "\xa7\x05"
+        if cmp(text,"1448")==0:
+                a = "\xa8\x05"
+        if cmp(text,"1449")==0:
+                a = "\xa9\x05"
+        if cmp(text,"1450")==0:
+                a = "\xaa\x05"
+        if cmp(text,"1451")==0:
+                a = "\xab\x05"
+        if cmp(text,"1452")==0:
+                a = "\xac\x05"
+        if cmp(text,"1453")==0:
+                a = "\xad\x05"
+        if cmp(text,"1454")==0:
+                a = "\xae\x05"
+        if cmp(text,"1455")==0:
+                a = "\xaf\x05"
+        if cmp(text,"1456")==0:
+                a = "\xb0\x05"
+        if cmp(text,"1457")==0:
+                a = "\xb1\x05"
+        if cmp(text,"1458")==0:
+                a = "\xb2\x05"
+        if cmp(text,"1459")==0:
+                a = "\xb3\x05"
+        if cmp(text,"1460")==0:
+                a = "\xb4\x05"
+        if cmp(text,"1461")==0:
+                a = "\xb5\x05"
+        if cmp(text,"1462")==0:
+                a = "\xb6\x05"
+        if cmp(text,"1463")==0:
+                a = "\xb7\x05"
+        if cmp(text,"1464")==0:
+                a = "\xb8\x05"
+        if cmp(text,"1465")==0:
+                a = "\xb9\x05"
+        if cmp(text,"1466")==0:
+                a = "\xba\x05"
+        if cmp(text,"1467")==0:
+                a = "\xbb\x05"
+        if cmp(text,"1468")==0:
+                a = "\xbc\x05"
+        if cmp(text,"1469")==0:
+                a = "\xbd\x05"
+        if cmp(text,"1470")==0:
+                a = "\xbe\x05"
+        if cmp(text,"1471")==0:
+                a = "\xbf\x05"
+        if cmp(text,"1472")==0:
+                a = "\xc0\x05"
+        if cmp(text,"1473")==0:
+                a = "\xc1\x05"
+        if cmp(text,"1474")==0:
+                a = "\xc2\x05"
+        if cmp(text,"1475")==0:
+                a = "\xc3\x05"
+        if cmp(text,"1476")==0:
+                a = "\xc4\x05"
+        if cmp(text,"1477")==0:
+                a = "\xc5\x05"
+        if cmp(text,"1478")==0:
+                a = "\xc6\x05"
+        if cmp(text,"1479")==0:
+                a = "\xc7\x05"
+        if cmp(text,"1480")==0:
+                a = "\xc8\x05"
+        if cmp(text,"1481")==0:
+                a = "\xc9\x05"
+        if cmp(text,"1482")==0:
+                a = "\xca\x05"
+        if cmp(text,"1483")==0:
+                a = "\xcb\x05"
+        if cmp(text,"1484")==0:
+                a = "\xcc\x05"
+        if cmp(text,"1485")==0:
+                a = "\xcd\x05"
+        if cmp(text,"1486")==0:
+                a = "\xce\x05"
+        if cmp(text,"1487")==0:
+                a = "\xcf\x05"
+        if cmp(text,"1488")==0:
+                a = "\xd0\x05"
+        if cmp(text,"1489")==0:
+                a = "\xd1\x05"
+        if cmp(text,"1490")==0:
+                a = "\xd2\x05"
+        if cmp(text,"1491")==0:
+                a = "\xd3\x05"
+        if cmp(text,"1492")==0:
+                a = "\xd4\x05"
+        if cmp(text,"1493")==0:
+                a = "\xd5\x05"
+        if cmp(text,"1494")==0:
+                a = "\xd6\x05"
+        if cmp(text,"1495")==0:
+                a = "\xd7\x05"
+        if cmp(text,"1496")==0:
+                a = "\xd8\x05"
+        if cmp(text,"1497")==0:
+                a = "\xd9\x05"
+        if cmp(text,"1498")==0:
+                a = "\xda\x05"
+        if cmp(text,"1499")==0:
+                a = "\xdb\x05"
+        if cmp(text,"1500")==0:
+                a = "\xdc\x05"
+        if cmp(text,"1501")==0:
+                a = "\xdd\x05"
+        if cmp(text,"1502")==0:
+                a = "\xde\x05"
+        if cmp(text,"1503")==0:
+                a = "\xdf\x05"
+        if cmp(text,"1504")==0:
+                a = "\xe0\x05"
+        if cmp(text,"1505")==0:
+                a = "\xe1\x05"
+        if cmp(text,"1506")==0:
+                a = "\xe2\x05"
+        if cmp(text,"1507")==0:
+                a = "\xe3\x05"
+        if cmp(text,"1508")==0:
+                a = "\xe4\x05"
+        if cmp(text,"1509")==0:
+                a = "\xe5\x05"
+        if cmp(text,"1510")==0:
+                a = "\xe6\x05"
+        if cmp(text,"1511")==0:
+                a = "\xe7\x05"
+        if cmp(text,"1512")==0:
+                a = "\xe8\x05"
+        if cmp(text,"1513")==0:
+                a = "\xe9\x05"
+        if cmp(text,"1514")==0:
+                a = "\xea\x05"
+        if cmp(text,"1515")==0:
+                a = "\xeb\x05"
+        if cmp(text,"1516")==0:
+                a = "\xec\x05"
+        if cmp(text,"1517")==0:
+                a = "\xed\x05"
+        if cmp(text,"1518")==0:
+                a = "\xee\x05"
+        if cmp(text,"1519")==0:
+                a = "\xef\x05"
+        if cmp(text,"1520")==0:
+                a = "\xf0\x05"
+        if cmp(text,"1521")==0:
+                a = "\xf1\x05"
+        if cmp(text,"1522")==0:
+                a = "\xf2\x05"
+        if cmp(text,"1523")==0:
+                a = "\xf3\x05"
+        if cmp(text,"1524")==0:
+                a = "\xf4\x05"
+        if cmp(text,"1525")==0:
+                a = "\xf5\x05"
+        if cmp(text,"1526")==0:
+                a = "\xf6\x05"
+        if cmp(text,"1527")==0:
+                a = "\xf7\x05"
+        if cmp(text,"1528")==0:
+                a = "\xf8\x05"
+        if cmp(text,"1529")==0:
+                a = "\xf9\x05"
+        if cmp(text,"1530")==0:
+                a = "\xfa\x05"
+        if cmp(text,"1531")==0:
+                a = "\xfb\x05"
+        if cmp(text,"1532")==0:
+                a = "\xfc\x05"
+        if cmp(text,"1533")==0:
+                a = "\xfd\x05"
+        if cmp(text,"1534")==0:
+                a = "\xfe\x05"
+        if cmp(text,"1535")==0:
+                a = "\xff\x05"
+        if cmp(text,"1536")==0:
+                a = "\x00\x06"
+        if cmp(text,"1537")==0:
+                a = "\x01\x06"
+        if cmp(text,"1538")==0:
+                a = "\x02\x06"
+        if cmp(text,"1539")==0:
+                a = "\x03\x06"
+        if cmp(text,"1540")==0:
+                a = "\x04\x06"
+        if cmp(text,"1541")==0:
+                a = "\x05\x06"
+        if cmp(text,"1542")==0:
+                a = "\x06\x06"
+        if cmp(text,"1543")==0:
+                a = "\x07\x06"
+        if cmp(text,"1544")==0:
+                a = "\x08\x06"
+        if cmp(text,"1545")==0:
+                a = "\x09\x06"
+        if cmp(text,"1546")==0:
+                a = "\x0a\x06"
+        if cmp(text,"1547")==0:
+                a = "\x0b\x06"
+        if cmp(text,"1548")==0:
+                a = "\x0c\x06"
+        if cmp(text,"1549")==0:
+                a = "\x0d\x06"
+        if cmp(text,"1550")==0:
+                a = "\x0e\x06"
+        if cmp(text,"1551")==0:
+                a = "\x0f\x06"
+        if cmp(text,"1552")==0:
+                a = "\x10\x06"
+        if cmp(text,"1553")==0:
+                a = "\x11\x06"
+        if cmp(text,"1554")==0:
+                a = "\x12\x06"
+        if cmp(text,"1555")==0:
+                a = "\x13\x06"
+        if cmp(text,"1556")==0:
+                a = "\x14\x06"
+        if cmp(text,"1557")==0:
+                a = "\x15\x06"
+        if cmp(text,"1558")==0:
+                a = "\x16\x06"
+        if cmp(text,"1559")==0:
+                a = "\x17\x06"
+        if cmp(text,"1560")==0:
+                a = "\x18\x06"
+        if cmp(text,"1561")==0:
+                a = "\x19\x06"
+        if cmp(text,"1562")==0:
+                a = "\x1a\x06"
+        if cmp(text,"1563")==0:
+                a = "\x1b\x06"
+        if cmp(text,"1564")==0:
+                a = "\x1c\x06"
+        if cmp(text,"1565")==0:
+                a = "\x1d\x06"
+        if cmp(text,"1566")==0:
+                a = "\x1e\x06"
+        if cmp(text,"1567")==0:
+                a = "\x1f\x06"
+        if cmp(text,"1568")==0:
+                a = "\x20\x06"
+        if cmp(text,"1569")==0:
+                a = "\x21\x06"
+        if cmp(text,"1570")==0:
+                a = "\x22\x06"
+        if cmp(text,"1571")==0:
+                a = "\x23\x06"
+        if cmp(text,"1572")==0:
+                a = "\x24\x06"
+        if cmp(text,"1573")==0:
+                a = "\x25\x06"
+        if cmp(text,"1574")==0:
+                a = "\x26\x06"
+        if cmp(text,"1575")==0:
+                a = "\x27\x06"
+        if cmp(text,"1576")==0:
+                a = "\x28\x06"
+        if cmp(text,"1577")==0:
+                a = "\x29\x06"
+        if cmp(text,"1578")==0:
+                a = "\x2a\x06"
+        if cmp(text,"1579")==0:
+                a = "\x2b\x06"
+        if cmp(text,"1580")==0:
+                a = "\x2c\x06"
+        if cmp(text,"1581")==0:
+                a = "\x2d\x06"
+        if cmp(text,"1582")==0:
+                a = "\x2e\x06"
+        if cmp(text,"1583")==0:
+                a = "\x2f\x06"
+        if cmp(text,"1584")==0:
+                a = "\x30\x06"
+        if cmp(text,"1585")==0:
+                a = "\x31\x06"
+        if cmp(text,"1586")==0:
+                a = "\x32\x06"
+        if cmp(text,"1587")==0:
+                a = "\x33\x06"
+        if cmp(text,"1588")==0:
+                a = "\x34\x06"
+        if cmp(text,"1589")==0:
+                a = "\x35\x06"
+        if cmp(text,"1590")==0:
+                a = "\x36\x06"
+        if cmp(text,"1591")==0:
+                a = "\x37\x06"
+        if cmp(text,"1592")==0:
+                a = "\x38\x06"
+        if cmp(text,"1593")==0:
+                a = "\x39\x06"
+        if cmp(text,"1594")==0:
+                a = "\x3a\x06"
+        if cmp(text,"1595")==0:
+                a = "\x3b\x06"
+        if cmp(text,"1596")==0:
+                a = "\x3c\x06"
+        if cmp(text,"1597")==0:
+                a = "\x3d\x06"
+        if cmp(text,"1598")==0:
+                a = "\x3e\x06"
+        if cmp(text,"1599")==0:
+                a = "\x3f\x06"
+        if cmp(text,"1600")==0:
+                a = "\x40\x06"
+        if cmp(text,"1601")==0:
+                a = "\x41\x06"
+        if cmp(text,"1602")==0:
+                a = "\x42\x06"
+        if cmp(text,"1603")==0:
+                a = "\x43\x06"
+        if cmp(text,"1604")==0:
+                a = "\x44\x06"
+        if cmp(text,"1605")==0:
+                a = "\x45\x06"
+        if cmp(text,"1606")==0:
+                a = "\x46\x06"
+        if cmp(text,"1607")==0:
+                a = "\x47\x06"
+        if cmp(text,"1608")==0:
+                a = "\x48\x06"
+        if cmp(text,"1609")==0:
+                a = "\x49\x06"
+        if cmp(text,"1610")==0:
+                a = "\x4a\x06"
+        if cmp(text,"1611")==0:
+                a = "\x4b\x06"
+        if cmp(text,"1612")==0:
+                a = "\x4c\x06"
+        if cmp(text,"1613")==0:
+                a = "\x4d\x06"
+        if cmp(text,"1614")==0:
+                a = "\x4e\x06"
+        if cmp(text,"1615")==0:
+                a = "\x4f\x06"
+        if cmp(text,"1616")==0:
+                a = "\x50\x06"
+        if cmp(text,"1617")==0:
+                a = "\x51\x06"
+        if cmp(text,"1618")==0:
+                a = "\x52\x06"
+        if cmp(text,"1619")==0:
+                a = "\x53\x06"
+        if cmp(text,"1620")==0:
+                a = "\x54\x06"
+        if cmp(text,"1621")==0:
+                a = "\x55\x06"
+        if cmp(text,"1622")==0:
+                a = "\x56\x06"
+        if cmp(text,"1623")==0:
+                a = "\x57\x06"
+        if cmp(text,"1624")==0:
+                a = "\x58\x06"
+        if cmp(text,"1625")==0:
+                a = "\x59\x06"
+        if cmp(text,"1626")==0:
+                a = "\x5a\x06"
+        if cmp(text,"1627")==0:
+                a = "\x5b\x06"
+        if cmp(text,"1628")==0:
+                a = "\x5c\x06"
+        if cmp(text,"1629")==0:
+                a = "\x5d\x06"
+        if cmp(text,"1630")==0:
+                a = "\x5e\x06"
+        if cmp(text,"1631")==0:
+                a = "\x5f\x06"
+        if cmp(text,"1632")==0:
+                a = "\x60\x06"
+        if cmp(text,"1633")==0:
+                a = "\x61\x06"
+        if cmp(text,"1634")==0:
+                a = "\x62\x06"
+        if cmp(text,"1635")==0:
+                a = "\x63\x06"
+        if cmp(text,"1636")==0:
+                a = "\x64\x06"
+        if cmp(text,"1637")==0:
+                a = "\x65\x06"
+        if cmp(text,"1638")==0:
+                a = "\x66\x06"
+        if cmp(text,"1639")==0:
+                a = "\x67\x06"
+        if cmp(text,"1640")==0:
+                a = "\x68\x06"
+        if cmp(text,"1641")==0:
+                a = "\x69\x06"
+        if cmp(text,"1642")==0:
+                a = "\x6a\x06"
+        if cmp(text,"1643")==0:
+                a = "\x6b\x06"
+        if cmp(text,"1644")==0:
+                a = "\x6c\x06"
+        if cmp(text,"1645")==0:
+                a = "\x6d\x06"
+        if cmp(text,"1646")==0:
+                a = "\x6e\x06"
+        if cmp(text,"1647")==0:
+                a = "\x6f\x06"
+        if cmp(text,"1648")==0:
+                a = "\x70\x06"
+        if cmp(text,"1649")==0:
+                a = "\x71\x06"
+        if cmp(text,"1650")==0:
+                a = "\x72\x06"
+        if cmp(text,"1651")==0:
+                a = "\x73\x06"
+        if cmp(text,"1652")==0:
+                a = "\x74\x06"
+        if cmp(text,"1653")==0:
+                a = "\x75\x06"
+        if cmp(text,"1654")==0:
+                a = "\x76\x06"
+        if cmp(text,"1655")==0:
+                a = "\x77\x06"
+        if cmp(text,"1656")==0:
+                a = "\x78\x06"
+        if cmp(text,"1657")==0:
+                a = "\x79\x06"
+        if cmp(text,"1658")==0:
+                a = "\x7a\x06"
+        if cmp(text,"1659")==0:
+                a = "\x7b\x06"
+        if cmp(text,"1660")==0:
+                a = "\x7c\x06"
+        if cmp(text,"1661")==0:
+                a = "\x7d\x06"
+        if cmp(text,"1662")==0:
+                a = "\x7e\x06"
+        if cmp(text,"1663")==0:
+                a = "\x7f\x06"
+        if cmp(text,"1664")==0:
+                a = "\x80\x06"
+        if cmp(text,"1665")==0:
+                a = "\x81\x06"
+        if cmp(text,"1666")==0:
+                a = "\x82\x06"
+        if cmp(text,"1667")==0:
+                a = "\x83\x06"
+        if cmp(text,"1668")==0:
+                a = "\x84\x06"
+        if cmp(text,"1669")==0:
+                a = "\x85\x06"
+        if cmp(text,"1670")==0:
+                a = "\x86\x06"
+        if cmp(text,"1671")==0:
+                a = "\x87\x06"
+        if cmp(text,"1672")==0:
+                a = "\x88\x06"
+        if cmp(text,"1673")==0:
+                a = "\x89\x06"
+        if cmp(text,"1674")==0:
+                a = "\x8a\x06"
+        if cmp(text,"1675")==0:
+                a = "\x8b\x06"
+        if cmp(text,"1676")==0:
+                a = "\x8c\x06"
+        if cmp(text,"1677")==0:
+                a = "\x8d\x06"
+        if cmp(text,"1678")==0:
+                a = "\x8e\x06"
+        if cmp(text,"1679")==0:
+                a = "\x8f\x06"
+        if cmp(text,"1680")==0:
+                a = "\x90\x06"
+        if cmp(text,"1681")==0:
+                a = "\x91\x06"
+        if cmp(text,"1682")==0:
+                a = "\x92\x06"
+        if cmp(text,"1683")==0:
+                a = "\x93\x06"
+        if cmp(text,"1684")==0:
+                a = "\x94\x06"
+        if cmp(text,"1685")==0:
+                a = "\x95\x06"
+        if cmp(text,"1686")==0:
+                a = "\x96\x06"
+        if cmp(text,"1687")==0:
+                a = "\x97\x06"
+        if cmp(text,"1688")==0:
+                a = "\x98\x06"
+        if cmp(text,"1689")==0:
+                a = "\x99\x06"
+        if cmp(text,"1690")==0:
+                a = "\x9a\x06"
+        if cmp(text,"1691")==0:
+                a = "\x9b\x06"
+        if cmp(text,"1692")==0:
+                a = "\x9c\x06"
+        if cmp(text,"1693")==0:
+                a = "\x9d\x06"
+        if cmp(text,"1694")==0:
+                a = "\x9e\x06"
+        if cmp(text,"1695")==0:
+                a = "\x9f\x06"
+        if cmp(text,"1696")==0:
+                a = "\xa0\x06"
+        if cmp(text,"1697")==0:
+                a = "\xa1\x06"
+        if cmp(text,"1698")==0:
+                a = "\xa2\x06"
+        if cmp(text,"1699")==0:
+                a = "\xa3\x06"
+        if cmp(text,"1700")==0:
+                a = "\xa4\x06"
+        if cmp(text,"1701")==0:
+                a = "\xa5\x06"
+        if cmp(text,"1702")==0:
+                a = "\xa6\x06"
+        if cmp(text,"1703")==0:
+                a = "\xa7\x06"
+        if cmp(text,"1704")==0:
+                a = "\xa8\x06"
+        if cmp(text,"1705")==0:
+                a = "\xa9\x06"
+        if cmp(text,"1706")==0:
+                a = "\xaa\x06"
+        if cmp(text,"1707")==0:
+                a = "\xab\x06"
+        if cmp(text,"1708")==0:
+                a = "\xac\x06"
+        if cmp(text,"1709")==0:
+                a = "\xad\x06"
+        if cmp(text,"1710")==0:
+                a = "\xae\x06"
+        if cmp(text,"1711")==0:
+                a = "\xaf\x06"
+        if cmp(text,"1712")==0:
+                a = "\xb0\x06"
+        if cmp(text,"1713")==0:
+                a = "\xb1\x06"
+        if cmp(text,"1714")==0:
+                a = "\xb2\x06"
+        if cmp(text,"1715")==0:
+                a = "\xb3\x06"
+        if cmp(text,"1716")==0:
+                a = "\xb4\x06"
+        if cmp(text,"1717")==0:
+                a = "\xb5\x06"
+        if cmp(text,"1718")==0:
+                a = "\xb6\x06"
+        if cmp(text,"1719")==0:
+                a = "\xb7\x06"
+        if cmp(text,"1720")==0:
+                a = "\xb8\x06"
+        if cmp(text,"1721")==0:
+                a = "\xb9\x06"
+        if cmp(text,"1722")==0:
+                a = "\xba\x06"
+        if cmp(text,"1723")==0:
+                a = "\xbb\x06"
+        if cmp(text,"1724")==0:
+                a = "\xbc\x06"
+        if cmp(text,"1725")==0:
+                a = "\xbd\x06"
+        if cmp(text,"1726")==0:
+                a = "\xbe\x06"
+        if cmp(text,"1727")==0:
+                a = "\xbf\x06"
+        if cmp(text,"1728")==0:
+                a = "\xc0\x06"
+        if cmp(text,"1729")==0:
+                a = "\xc1\x06"
+        if cmp(text,"1730")==0:
+                a = "\xc2\x06"
+        if cmp(text,"1731")==0:
+                a = "\xc3\x06"
+        if cmp(text,"1732")==0:
+                a = "\xc4\x06"
+        if cmp(text,"1733")==0:
+                a = "\xc5\x06"
+        if cmp(text,"1734")==0:
+                a = "\xc6\x06"
+        if cmp(text,"1735")==0:
+                a = "\xc7\x06"
+        if cmp(text,"1736")==0:
+                a = "\xc8\x06"
+        if cmp(text,"1737")==0:
+                a = "\xc9\x06"
+        if cmp(text,"1738")==0:
+                a = "\xca\x06"
+        if cmp(text,"1739")==0:
+                a = "\xcb\x06"
+        if cmp(text,"1740")==0:
+                a = "\xcc\x06"
+        if cmp(text,"1741")==0:
+                a = "\xcd\x06"
+        if cmp(text,"1742")==0:
+                a = "\xce\x06"
+        if cmp(text,"1743")==0:
+                a = "\xcf\x06"
+        if cmp(text,"1744")==0:
+                a = "\xd0\x06"
+        if cmp(text,"1745")==0:
+                a = "\xd1\x06"
+        if cmp(text,"1746")==0:
+                a = "\xd2\x06"
+        if cmp(text,"1747")==0:
+                a = "\xd3\x06"
+        if cmp(text,"1748")==0:
+                a = "\xd4\x06"
+        if cmp(text,"1749")==0:
+                a = "\xd5\x06"
+        if cmp(text,"1750")==0:
+                a = "\xd6\x06"
+        if cmp(text,"1751")==0:
+                a = "\xd7\x06"
+        if cmp(text,"1752")==0:
+                a = "\xd8\x06"
+        if cmp(text,"1753")==0:
+                a = "\xd9\x06"
+        if cmp(text,"1754")==0:
+                a = "\xda\x06"
+        if cmp(text,"1755")==0:
+                a = "\xdb\x06"
+        if cmp(text,"1756")==0:
+                a = "\xdc\x06"
+        if cmp(text,"1757")==0:
+                a = "\xdd\x06"
+        if cmp(text,"1758")==0:
+                a = "\xde\x06"
+        if cmp(text,"1759")==0:
+                a = "\xdf\x06"
+        if cmp(text,"1760")==0:
+                a = "\xe0\x06"
+        if cmp(text,"1761")==0:
+                a = "\xe1\x06"
+        if cmp(text,"1762")==0:
+                a = "\xe2\x06"
+        if cmp(text,"1763")==0:
+                a = "\xe3\x06"
+        if cmp(text,"1764")==0:
+                a = "\xe4\x06"
+        if cmp(text,"1765")==0:
+                a = "\xe5\x06"
+        if cmp(text,"1766")==0:
+                a = "\xe6\x06"
+        if cmp(text,"1767")==0:
+                a = "\xe7\x06"
+        if cmp(text,"1768")==0:
+                a = "\xe8\x06"
+        if cmp(text,"1769")==0:
+                a = "\xe9\x06"
+        if cmp(text,"1770")==0:
+                a = "\xea\x06"
+        if cmp(text,"1771")==0:
+                a = "\xeb\x06"
+        if cmp(text,"1772")==0:
+                a = "\xec\x06"
+        if cmp(text,"1773")==0:
+                a = "\xed\x06"
+        if cmp(text,"1774")==0:
+                a = "\xee\x06"
+        if cmp(text,"1775")==0:
+                a = "\xef\x06"
+        if cmp(text,"1776")==0:
+                a = "\xf0\x06"
+        if cmp(text,"1777")==0:
+                a = "\xf1\x06"
+        if cmp(text,"1778")==0:
+                a = "\xf2\x06"
+        if cmp(text,"1779")==0:
+                a = "\xf3\x06"
+        if cmp(text,"1780")==0:
+                a = "\xf4\x06"
+        if cmp(text,"1781")==0:
+                a = "\xf5\x06"
+        if cmp(text,"1782")==0:
+                a = "\xf6\x06"
+        if cmp(text,"1783")==0:
+                a = "\xf7\x06"
+        if cmp(text,"1784")==0:
+                a = "\xf8\x06"
+        if cmp(text,"1785")==0:
+                a = "\xf9\x06"
+        if cmp(text,"1786")==0:
+                a = "\xfa\x06"
+        if cmp(text,"1787")==0:
+                a = "\xfb\x06"
+        if cmp(text,"1788")==0:
+                a = "\xfc\x06"
+        if cmp(text,"1789")==0:
+                a = "\xfd\x06"
+        if cmp(text,"1790")==0:
+                a = "\xfe\x06"
+        if cmp(text,"1791")==0:
+                a = "\xff\x06"
+        if cmp(text,"1792")==0:
+                a = "\x00\x07"
+        if cmp(text,"1793")==0:
+                a = "\x01\x07"
+        if cmp(text,"1794")==0:
+                a = "\x02\x07"
+        if cmp(text,"1795")==0:
+                a = "\x03\x07"
+        if cmp(text,"1796")==0:
+                a = "\x04\x07"
+        if cmp(text,"1797")==0:
+                a = "\x05\x07"
+        if cmp(text,"1798")==0:
+                a = "\x06\x07"
+        if cmp(text,"1799")==0:
+                a = "\x07\x07"
+        if cmp(text,"1800")==0:
+                a = "\x08\x07"
+        if cmp(text,"1801")==0:
+                a = "\x09\x07"
+        if cmp(text,"1802")==0:
+                a = "\x0a\x07"
+        if cmp(text,"1803")==0:
+                a = "\x0b\x07"
+        if cmp(text,"1804")==0:
+                a = "\x0c\x07"
+        if cmp(text,"1805")==0:
+                a = "\x0d\x07"
+        if cmp(text,"1806")==0:
+                a = "\x0e\x07"
+        if cmp(text,"1807")==0:
+                a = "\x0f\x07"
+        if cmp(text,"1808")==0:
+                a = "\x10\x07"
+        if cmp(text,"1809")==0:
+                a = "\x11\x07"
+        if cmp(text,"1810")==0:
+                a = "\x12\x07"
+        if cmp(text,"1811")==0:
+                a = "\x13\x07"
+        if cmp(text,"1812")==0:
+                a = "\x14\x07"
+        if cmp(text,"1813")==0:
+                a = "\x15\x07"
+        if cmp(text,"1814")==0:
+                a = "\x16\x07"
+        if cmp(text,"1815")==0:
+                a = "\x17\x07"
+        if cmp(text,"1816")==0:
+                a = "\x18\x07"
+        if cmp(text,"1817")==0:
+                a = "\x19\x07"
+        if cmp(text,"1818")==0:
+                a = "\x1a\x07"
+        if cmp(text,"1819")==0:
+                a = "\x1b\x07"
+        if cmp(text,"1820")==0:
+                a = "\x1c\x07"
+        if cmp(text,"1821")==0:
+                a = "\x1d\x07"
+        if cmp(text,"1822")==0:
+                a = "\x1e\x07"
+        if cmp(text,"1823")==0:
+                a = "\x1f\x07"
+        if cmp(text,"1824")==0:
+                a = "\x20\x07"
+        if cmp(text,"1825")==0:
+                a = "\x21\x07"
+        if cmp(text,"1826")==0:
+                a = "\x22\x07"
+        if cmp(text,"1827")==0:
+                a = "\x23\x07"
+        if cmp(text,"1828")==0:
+                a = "\x24\x07"
+        if cmp(text,"1829")==0:
+                a = "\x25\x07"
+        if cmp(text,"1830")==0:
+                a = "\x26\x07"
+        if cmp(text,"1831")==0:
+                a = "\x27\x07"
+        if cmp(text,"1832")==0:
+                a = "\x28\x07"
+        if cmp(text,"1833")==0:
+                a = "\x29\x07"
+        if cmp(text,"1834")==0:
+                a = "\x2a\x07"
+        if cmp(text,"1835")==0:
+                a = "\x2b\x07"
+        if cmp(text,"1836")==0:
+                a = "\x2c\x07"
+        if cmp(text,"1837")==0:
+                a = "\x2d\x07"
+        if cmp(text,"1838")==0:
+                a = "\x2e\x07"
+        if cmp(text,"1839")==0:
+                a = "\x2f\x07"
+        if cmp(text,"1840")==0:
+                a = "\x30\x07"
+        if cmp(text,"1841")==0:
+                a = "\x31\x07"
+        if cmp(text,"1842")==0:
+                a = "\x32\x07"
+        if cmp(text,"1843")==0:
+                a = "\x33\x07"
+        if cmp(text,"1844")==0:
+                a = "\x34\x07"
+        if cmp(text,"1845")==0:
+                a = "\x35\x07"
+        if cmp(text,"1846")==0:
+                a = "\x36\x07"
+        if cmp(text,"1847")==0:
+                a = "\x37\x07"
+        if cmp(text,"1848")==0:
+                a = "\x38\x07"
+        if cmp(text,"1849")==0:
+                a = "\x39\x07"
+        if cmp(text,"1850")==0:
+                a = "\x3a\x07"
+        if cmp(text,"1851")==0:
+                a = "\x3b\x07"
+        if cmp(text,"1852")==0:
+                a = "\x3c\x07"
+        if cmp(text,"1853")==0:
+                a = "\x3d\x07"
+        if cmp(text,"1854")==0:
+                a = "\x3e\x07"
+        if cmp(text,"1855")==0:
+                a = "\x3f\x07"
+        if cmp(text,"1856")==0:
+                a = "\x40\x07"
+        if cmp(text,"1857")==0:
+                a = "\x41\x07"
+        if cmp(text,"1858")==0:
+                a = "\x42\x07"
+        if cmp(text,"1859")==0:
+                a = "\x43\x07"
+        if cmp(text,"1860")==0:
+                a = "\x44\x07"
+        if cmp(text,"1861")==0:
+                a = "\x45\x07"
+        if cmp(text,"1862")==0:
+                a = "\x46\x07"
+        if cmp(text,"1863")==0:
+                a = "\x47\x07"
+        if cmp(text,"1864")==0:
+                a = "\x48\x07"
+        if cmp(text,"1865")==0:
+                a = "\x49\x07"
+        if cmp(text,"1866")==0:
+                a = "\x4a\x07"
+        if cmp(text,"1867")==0:
+                a = "\x4b\x07"
+        if cmp(text,"1868")==0:
+                a = "\x4c\x07"
+        if cmp(text,"1869")==0:
+                a = "\x4d\x07"
+        if cmp(text,"1870")==0:
+                a = "\x4e\x07"
+        if cmp(text,"1871")==0:
+                a = "\x4f\x07"
+        if cmp(text,"1872")==0:
+                a = "\x50\x07"
+        if cmp(text,"1873")==0:
+                a = "\x51\x07"
+        if cmp(text,"1874")==0:
+                a = "\x52\x07"
+        if cmp(text,"1875")==0:
+                a = "\x53\x07"
+        if cmp(text,"1876")==0:
+                a = "\x54\x07"
+        if cmp(text,"1877")==0:
+                a = "\x55\x07"
+        if cmp(text,"1878")==0:
+                a = "\x56\x07"
+        if cmp(text,"1879")==0:
+                a = "\x57\x07"
+        if cmp(text,"1880")==0:
+                a = "\x58\x07"
+        if cmp(text,"1881")==0:
+                a = "\x59\x07"
+        if cmp(text,"1882")==0:
+                a = "\x5a\x07"
+        if cmp(text,"1883")==0:
+                a = "\x5b\x07"
+        if cmp(text,"1884")==0:
+                a = "\x5c\x07"
+        if cmp(text,"1885")==0:
+                a = "\x5d\x07"
+        if cmp(text,"1886")==0:
+                a = "\x5e\x07"
+        if cmp(text,"1887")==0:
+                a = "\x5f\x07"
+        if cmp(text,"1888")==0:
+                a = "\x60\x07"
+        if cmp(text,"1889")==0:
+                a = "\x61\x07"
+        if cmp(text,"1890")==0:
+                a = "\x62\x07"
+        if cmp(text,"1891")==0:
+                a = "\x63\x07"
+        if cmp(text,"1892")==0:
+                a = "\x64\x07"
+        if cmp(text,"1893")==0:
+                a = "\x65\x07"
+        if cmp(text,"1894")==0:
+                a = "\x66\x07"
+        if cmp(text,"1895")==0:
+                a = "\x67\x07"
+        if cmp(text,"1896")==0:
+                a = "\x68\x07"
+        if cmp(text,"1897")==0:
+                a = "\x69\x07"
+        if cmp(text,"1898")==0:
+                a = "\x6a\x07"
+        if cmp(text,"1899")==0:
+                a = "\x6b\x07"
+        if cmp(text,"1900")==0:
+                a = "\x6c\x07"
+        if cmp(text,"1901")==0:
+                a = "\x6d\x07"
+        if cmp(text,"1902")==0:
+                a = "\x6e\x07"
+        if cmp(text,"1903")==0:
+                a = "\x6f\x07"
+        if cmp(text,"1904")==0:
+                a = "\x70\x07"
+        if cmp(text,"1905")==0:
+                a = "\x71\x07"
+        if cmp(text,"1906")==0:
+                a = "\x72\x07"
+        if cmp(text,"1907")==0:
+                a = "\x73\x07"
+        if cmp(text,"1908")==0:
+                a = "\x74\x07"
+        if cmp(text,"1909")==0:
+                a = "\x75\x07"
+        if cmp(text,"1910")==0:
+                a = "\x76\x07"
+        if cmp(text,"1911")==0:
+                a = "\x77\x07"
+        if cmp(text,"1912")==0:
+                a = "\x78\x07"
+        if cmp(text,"1913")==0:
+                a = "\x79\x07"
+        if cmp(text,"1914")==0:
+                a = "\x7a\x07"
+        if cmp(text,"1915")==0:
+                a = "\x7b\x07"
+        if cmp(text,"1916")==0:
+                a = "\x7c\x07"
+        if cmp(text,"1917")==0:
+                a = "\x7d\x07"
+        if cmp(text,"1918")==0:
+                a = "\x7e\x07"
+        if cmp(text,"1919")==0:
+                a = "\x7f\x07"
+        if cmp(text,"1920")==0:
+                a = "\x80\x07"
+        if cmp(text,"1921")==0:
+                a = "\x81\x07"
+        if cmp(text,"1922")==0:
+                a = "\x82\x07"
+        if cmp(text,"1923")==0:
+                a = "\x83\x07"
+        if cmp(text,"1924")==0:
+                a = "\x84\x07"
+        if cmp(text,"1925")==0:
+                a = "\x85\x07"
+        if cmp(text,"1926")==0:
+                a = "\x86\x07"
+        if cmp(text,"1927")==0:
+                a = "\x87\x07"
+        if cmp(text,"1928")==0:
+                a = "\x88\x07"
+        if cmp(text,"1929")==0:
+                a = "\x89\x07"
+        if cmp(text,"1930")==0:
+                a = "\x8a\x07"
+        if cmp(text,"1931")==0:
+                a = "\x8b\x07"
+        if cmp(text,"1932")==0:
+                a = "\x8c\x07"
+        if cmp(text,"1933")==0:
+                a = "\x8d\x07"
+        if cmp(text,"1934")==0:
+                a = "\x8e\x07"
+        if cmp(text,"1935")==0:
+                a = "\x8f\x07"
+        if cmp(text,"1936")==0:
+                a = "\x90\x07"
+        if cmp(text,"1937")==0:
+                a = "\x91\x07"
+        if cmp(text,"1938")==0:
+                a = "\x92\x07"
+        if cmp(text,"1939")==0:
+                a = "\x93\x07"
+        if cmp(text,"1940")==0:
+                a = "\x94\x07"
+        if cmp(text,"1941")==0:
+                a = "\x95\x07"
+        if cmp(text,"1942")==0:
+                a = "\x96\x07"
+        if cmp(text,"1943")==0:
+                a = "\x97\x07"
+        if cmp(text,"1944")==0:
+                a = "\x98\x07"
+        if cmp(text,"1945")==0:
+                a = "\x99\x07"
+        if cmp(text,"1946")==0:
+                a = "\x9a\x07"
+        if cmp(text,"1947")==0:
+                a = "\x9b\x07"
+        if cmp(text,"1948")==0:
+                a = "\x9c\x07"
+        if cmp(text,"1949")==0:
+                a = "\x9d\x07"
+        if cmp(text,"1950")==0:
+                a = "\x9e\x07"
+        if cmp(text,"1951")==0:
+                a = "\x9f\x07"
+        if cmp(text,"1952")==0:
+                a = "\xa0\x07"
+        if cmp(text,"1953")==0:
+                a = "\xa1\x07"
+        if cmp(text,"1954")==0:
+                a = "\xa2\x07"
+        if cmp(text,"1955")==0:
+                a = "\xa3\x07"
+        if cmp(text,"1956")==0:
+                a = "\xa4\x07"
+        if cmp(text,"1957")==0:
+                a = "\xa5\x07"
+        if cmp(text,"1958")==0:
+                a = "\xa6\x07"
+        if cmp(text,"1959")==0:
+                a = "\xa7\x07"
+        if cmp(text,"1960")==0:
+                a = "\xa8\x07"
+        if cmp(text,"1961")==0:
+                a = "\xa9\x07"
+        if cmp(text,"1962")==0:
+                a = "\xaa\x07"
+        if cmp(text,"1963")==0:
+                a = "\xab\x07"
+        if cmp(text,"1964")==0:
+                a = "\xac\x07"
+        if cmp(text,"1965")==0:
+                a = "\xad\x07"
+        if cmp(text,"1966")==0:
+                a = "\xae\x07"
+        if cmp(text,"1967")==0:
+                a = "\xaf\x07"
+        if cmp(text,"1968")==0:
+                a = "\xb0\x07"
+        if cmp(text,"1969")==0:
+                a = "\xb1\x07"
+        if cmp(text,"1970")==0:
+                a = "\xb2\x07"
+        if cmp(text,"1971")==0:
+                a = "\xb3\x07"
+        if cmp(text,"1972")==0:
+                a = "\xb4\x07"
+        if cmp(text,"1973")==0:
+                a = "\xb5\x07"
+        if cmp(text,"1974")==0:
+                a = "\xb6\x07"
+        if cmp(text,"1975")==0:
+                a = "\xb7\x07"
+        if cmp(text,"1976")==0:
+                a = "\xb8\x07"
+        if cmp(text,"1977")==0:
+                a = "\xb9\x07"
+        if cmp(text,"1978")==0:
+                a = "\xba\x07"
+        if cmp(text,"1979")==0:
+                a = "\xbb\x07"
+        if cmp(text,"1980")==0:
+                a = "\xbc\x07"
+        if cmp(text,"1981")==0:
+                a = "\xbd\x07"
+        if cmp(text,"1982")==0:
+                a = "\xbe\x07"
+        if cmp(text,"1983")==0:
+                a = "\xbf\x07"
+        if cmp(text,"1984")==0:
+                a = "\xc0\x07"
+        if cmp(text,"1985")==0:
+                a = "\xc1\x07"
+        if cmp(text,"1986")==0:
+                a = "\xc2\x07"
+        if cmp(text,"1987")==0:
+                a = "\xc3\x07"
+        if cmp(text,"1988")==0:
+                a = "\xc4\x07"
+        if cmp(text,"1989")==0:
+                a = "\xc5\x07"
+        if cmp(text,"1990")==0:
+                a = "\xc6\x07"
+        if cmp(text,"1991")==0:
+                a = "\xc7\x07"
+        if cmp(text,"1992")==0:
+                a = "\xc8\x07"
+        if cmp(text,"1993")==0:
+                a = "\xc9\x07"
+        if cmp(text,"1994")==0:
+                a = "\xca\x07"
+        if cmp(text,"1995")==0:
+                a = "\xcb\x07"
+        if cmp(text,"1996")==0:
+                a = "\xcc\x07"
+        if cmp(text,"1997")==0:
+                a = "\xcd\x07"
+        if cmp(text,"1998")==0:
+                a = "\xce\x07"
+        if cmp(text,"1999")==0:
+                a = "\xcf\x07"
+        if cmp(text,"2000")==0:
+                a = "\xd0\x07"
+        if cmp(text,"2001")==0:
+                a = "\xd1\x07"
+        if cmp(text,"2002")==0:
+                a = "\xd2\x07"
+        if cmp(text,"2003")==0:
+                a = "\xd3\x07"
+        if cmp(text,"2004")==0:
+                a = "\xd4\x07"
+        if cmp(text,"2005")==0:
+                a = "\xd5\x07"
+        if cmp(text,"2006")==0:
+                a = "\xd6\x07"
+        if cmp(text,"2007")==0:
+                a = "\xd7\x07"
+        if cmp(text,"2008")==0:
+                a = "\xd8\x07"
+        if cmp(text,"2009")==0:
+                a = "\xd9\x07"
+        if cmp(text,"2010")==0:
+                a = "\xda\x07"
+        if cmp(text,"2011")==0:
+                a = "\xdb\x07"
+        if cmp(text,"2012")==0:
+                a = "\xdc\x07"
+        if cmp(text,"2013")==0:
+                a = "\xdd\x07"
+        if cmp(text,"2014")==0:
+                a = "\xde\x07"
+        if cmp(text,"2015")==0:
+                a = "\xdf\x07"
+        if cmp(text,"2016")==0:
+                a = "\xe0\x07"
+        if cmp(text,"2017")==0:
+                a = "\xe1\x07"
+        if cmp(text,"2018")==0:
+                a = "\xe2\x07"
+        if cmp(text,"2019")==0:
+                a = "\xe3\x07"
+        if cmp(text,"2020")==0:
+                a = "\xe4\x07"
+        if cmp(text,"2021")==0:
+                a = "\xe5\x07"
+        if cmp(text,"2022")==0:
+                a = "\xe6\x07"
+        if cmp(text,"2023")==0:
+                a = "\xe7\x07"
+        if cmp(text,"2024")==0:
+                a = "\xe8\x07"
+        if cmp(text,"2025")==0:
+                a = "\xe9\x07"
+        if cmp(text,"2026")==0:
+                a = "\xea\x07"
+        if cmp(text,"2027")==0:
+                a = "\xeb\x07"
+        if cmp(text,"2028")==0:
+                a = "\xec\x07"
+        if cmp(text,"2029")==0:
+                a = "\xed\x07"
+        if cmp(text,"2030")==0:
+                a = "\xee\x07"
+        if cmp(text,"2031")==0:
+                a = "\xef\x07"
+        if cmp(text,"2032")==0:
+                a = "\xf0\x07"
+        if cmp(text,"2033")==0:
+                a = "\xf1\x07"
+        if cmp(text,"2034")==0:
+                a = "\xf2\x07"
+        if cmp(text,"2035")==0:
+                a = "\xf3\x07"
+        if cmp(text,"2036")==0:
+                a = "\xf4\x07"
+        if cmp(text,"2037")==0:
+                a = "\xf5\x07"
+        if cmp(text,"2038")==0:
+                a = "\xf6\x07"
+        if cmp(text,"2039")==0:
+                a = "\xf7\x07"
+        if cmp(text,"2040")==0:
+                a = "\xf8\x07"
+        if cmp(text,"2041")==0:
+                a = "\xf9\x07"
+        if cmp(text,"2042")==0:
+                a = "\xfa\x07"
+        if cmp(text,"2043")==0:
+                a = "\xfb\x07"
+        if cmp(text,"2044")==0:
+                a = "\xfc\x07"
+        if cmp(text,"2045")==0:
+                a = "\xfd\x07"
+        if cmp(text,"2046")==0:
+                a = "\xfe\x07"
+        if cmp(text,"2047")==0:
+                a = "\xff\x07"
+        if cmp(text,"2048")==0:
+                a = "\x00\x08"
+        if cmp(text,"2049")==0:
+                a = "\x01\x08"
+        if cmp(text,"2050")==0:
+                a = "\x02\x08"
+        if cmp(text,"2051")==0:
+                a = "\x03\x08"
+        if cmp(text,"2052")==0:
+                a = "\x04\x08"
+        if cmp(text,"2053")==0:
+                a = "\x05\x08"
+        if cmp(text,"2054")==0:
+                a = "\x06\x08"
+        if cmp(text,"2055")==0:
+                a = "\x07\x08"
+        if cmp(text,"2056")==0:
+                a = "\x08\x08"
+        if cmp(text,"2057")==0:
+                a = "\x09\x08"
+        if cmp(text,"2058")==0:
+                a = "\x0a\x08"
+        if cmp(text,"2059")==0:
+                a = "\x0b\x08"
+        if cmp(text,"2060")==0:
+                a = "\x0c\x08"
+        if cmp(text,"2061")==0:
+                a = "\x0d\x08"
+        if cmp(text,"2062")==0:
+                a = "\x0e\x08"
+        if cmp(text,"2063")==0:
+                a = "\x0f\x08"
+        if cmp(text,"2064")==0:
+                a = "\x10\x08"
+        if cmp(text,"2065")==0:
+                a = "\x11\x08"
+        if cmp(text,"2066")==0:
+                a = "\x12\x08"
+        if cmp(text,"2067")==0:
+                a = "\x13\x08"
+        if cmp(text,"2068")==0:
+                a = "\x14\x08"
+        if cmp(text,"2069")==0:
+                a = "\x15\x08"
+        if cmp(text,"2070")==0:
+                a = "\x16\x08"
+        if cmp(text,"2071")==0:
+                a = "\x17\x08"
+        if cmp(text,"2072")==0:
+                a = "\x18\x08"
+        if cmp(text,"2073")==0:
+                a = "\x19\x08"
+        if cmp(text,"2074")==0:
+                a = "\x1a\x08"
+        if cmp(text,"2075")==0:
+                a = "\x1b\x08"
+        if cmp(text,"2076")==0:
+                a = "\x1c\x08"
+        if cmp(text,"2077")==0:
+                a = "\x1d\x08"
+        if cmp(text,"2078")==0:
+                a = "\x1e\x08"
+        if cmp(text,"2079")==0:
+                a = "\x1f\x08"
+        if cmp(text,"2080")==0:
+                a = "\x20\x08"
+        if cmp(text,"2081")==0:
+                a = "\x21\x08"
+        if cmp(text,"2082")==0:
+                a = "\x22\x08"
+        if cmp(text,"2083")==0:
+                a = "\x23\x08"
+        if cmp(text,"2084")==0:
+                a = "\x24\x08"
+        if cmp(text,"2085")==0:
+                a = "\x25\x08"
+        if cmp(text,"2086")==0:
+                a = "\x26\x08"
+        if cmp(text,"2087")==0:
+                a = "\x27\x08"
+        if cmp(text,"2088")==0:
+                a = "\x28\x08"
+        if cmp(text,"2089")==0:
+                a = "\x29\x08"
+        if cmp(text,"2090")==0:
+                a = "\x2a\x08"
+        if cmp(text,"2091")==0:
+                a = "\x2b\x08"
+        if cmp(text,"2092")==0:
+                a = "\x2c\x08"
+        if cmp(text,"2093")==0:
+                a = "\x2d\x08"
+        if cmp(text,"2094")==0:
+                a = "\x2e\x08"
+        if cmp(text,"2095")==0:
+                a = "\x2f\x08"
+        if cmp(text,"2096")==0:
+                a = "\x30\x08"
+        if cmp(text,"2097")==0:
+                a = "\x31\x08"
+        if cmp(text,"2098")==0:
+                a = "\x32\x08"
+        if cmp(text,"2099")==0:
+                a = "\x33\x08"
+        if cmp(text,"2100")==0:
+                a = "\x34\x08"
+        if cmp(text,"2101")==0:
+                a = "\x35\x08"
+        if cmp(text,"2102")==0:
+                a = "\x36\x08"
+        if cmp(text,"2103")==0:
+                a = "\x37\x08"
+        if cmp(text,"2104")==0:
+                a = "\x38\x08"
+        if cmp(text,"2105")==0:
+                a = "\x39\x08"
+        if cmp(text,"2106")==0:
+                a = "\x3a\x08"
+        if cmp(text,"2107")==0:
+                a = "\x3b\x08"
+        if cmp(text,"2108")==0:
+                a = "\x3c\x08"
+        if cmp(text,"2109")==0:
+                a = "\x3d\x08"
+        if cmp(text,"2110")==0:
+                a = "\x3e\x08"
+        if cmp(text,"2111")==0:
+                a = "\x3f\x08"
+        if cmp(text,"2112")==0:
+                a = "\x40\x08"
+        if cmp(text,"2113")==0:
+                a = "\x41\x08"
+        if cmp(text,"2114")==0:
+                a = "\x42\x08"
+        if cmp(text,"2115")==0:
+                a = "\x43\x08"
+        if cmp(text,"2116")==0:
+                a = "\x44\x08"
+        if cmp(text,"2117")==0:
+                a = "\x45\x08"
+        if cmp(text,"2118")==0:
+                a = "\x46\x08"
+        if cmp(text,"2119")==0:
+                a = "\x47\x08"
+        if cmp(text,"2120")==0:
+                a = "\x48\x08"
+        if cmp(text,"2121")==0:
+                a = "\x49\x08"
+        if cmp(text,"2122")==0:
+                a = "\x4a\x08"
+        if cmp(text,"2123")==0:
+                a = "\x4b\x08"
+        if cmp(text,"2124")==0:
+                a = "\x4c\x08"
+        if cmp(text,"2125")==0:
+                a = "\x4d\x08"
+        if cmp(text,"2126")==0:
+                a = "\x4e\x08"
+        if cmp(text,"2127")==0:
+                a = "\x4f\x08"
+        if cmp(text,"2128")==0:
+                a = "\x50\x08"
+        if cmp(text,"2129")==0:
+                a = "\x51\x08"
+        if cmp(text,"2130")==0:
+                a = "\x52\x08"
+        if cmp(text,"2131")==0:
+                a = "\x53\x08"
+        if cmp(text,"2132")==0:
+                a = "\x54\x08"
+        if cmp(text,"2133")==0:
+                a = "\x55\x08"
+        if cmp(text,"2134")==0:
+                a = "\x56\x08"
+        if cmp(text,"2135")==0:
+                a = "\x57\x08"
+        if cmp(text,"2136")==0:
+                a = "\x58\x08"
+        if cmp(text,"2137")==0:
+                a = "\x59\x08"
+        if cmp(text,"2138")==0:
+                a = "\x5a\x08"
+        if cmp(text,"2139")==0:
+                a = "\x5b\x08"
+        if cmp(text,"2140")==0:
+                a = "\x5c\x08"
+        if cmp(text,"2141")==0:
+                a = "\x5d\x08"
+        if cmp(text,"2142")==0:
+                a = "\x5e\x08"
+        if cmp(text,"2143")==0:
+                a = "\x5f\x08"
+        if cmp(text,"2144")==0:
+                a = "\x60\x08"
+        if cmp(text,"2145")==0:
+                a = "\x61\x08"
+        if cmp(text,"2146")==0:
+                a = "\x62\x08"
+        if cmp(text,"2147")==0:
+                a = "\x63\x08"
+        if cmp(text,"2148")==0:
+                a = "\x64\x08"
+        if cmp(text,"2149")==0:
+                a = "\x65\x08"
+        if cmp(text,"2150")==0:
+                a = "\x66\x08"
+        if cmp(text,"2151")==0:
+                a = "\x67\x08"
+        if cmp(text,"2152")==0:
+                a = "\x68\x08"
+        if cmp(text,"2153")==0:
+                a = "\x69\x08"
+        if cmp(text,"2154")==0:
+                a = "\x6a\x08"
+        if cmp(text,"2155")==0:
+                a = "\x6b\x08"
+        if cmp(text,"2156")==0:
+                a = "\x6c\x08"
+        if cmp(text,"2157")==0:
+                a = "\x6d\x08"
+        if cmp(text,"2158")==0:
+                a = "\x6e\x08"
+        if cmp(text,"2159")==0:
+                a = "\x6f\x08"
+        if cmp(text,"2160")==0:
+                a = "\x70\x08"
+        if cmp(text,"2161")==0:
+                a = "\x71\x08"
+        if cmp(text,"2162")==0:
+                a = "\x72\x08"
+        if cmp(text,"2163")==0:
+                a = "\x73\x08"
+        if cmp(text,"2164")==0:
+                a = "\x74\x08"
+        if cmp(text,"2165")==0:
+                a = "\x75\x08"
+        if cmp(text,"2166")==0:
+                a = "\x76\x08"
+        if cmp(text,"2167")==0:
+                a = "\x77\x08"
+        if cmp(text,"2168")==0:
+                a = "\x78\x08"
+        if cmp(text,"2169")==0:
+                a = "\x79\x08"
+        if cmp(text,"2170")==0:
+                a = "\x7a\x08"
+        if cmp(text,"2171")==0:
+                a = "\x7b\x08"
+        if cmp(text,"2172")==0:
+                a = "\x7c\x08"
+        if cmp(text,"2173")==0:
+                a = "\x7d\x08"
+        if cmp(text,"2174")==0:
+                a = "\x7e\x08"
+        if cmp(text,"2175")==0:
+                a = "\x7f\x08"
+        if cmp(text,"2176")==0:
+                a = "\x80\x08"
+        if cmp(text,"2177")==0:
+                a = "\x81\x08"
+        if cmp(text,"2178")==0:
+                a = "\x82\x08"
+        if cmp(text,"2179")==0:
+                a = "\x83\x08"
+        if cmp(text,"2180")==0:
+                a = "\x84\x08"
+        if cmp(text,"2181")==0:
+                a = "\x85\x08"
+        if cmp(text,"2182")==0:
+                a = "\x86\x08"
+        if cmp(text,"2183")==0:
+                a = "\x87\x08"
+        if cmp(text,"2184")==0:
+                a = "\x88\x08"
+        if cmp(text,"2185")==0:
+                a = "\x89\x08"
+        if cmp(text,"2186")==0:
+                a = "\x8a\x08"
+        if cmp(text,"2187")==0:
+                a = "\x8b\x08"
+        if cmp(text,"2188")==0:
+                a = "\x8c\x08"
+        if cmp(text,"2189")==0:
+                a = "\x8d\x08"
+        if cmp(text,"2190")==0:
+                a = "\x8e\x08"
+        if cmp(text,"2191")==0:
+                a = "\x8f\x08"
+        if cmp(text,"2192")==0:
+                a = "\x90\x08"
+        if cmp(text,"2193")==0:
+                a = "\x91\x08"
+        if cmp(text,"2194")==0:
+                a = "\x92\x08"
+        if cmp(text,"2195")==0:
+                a = "\x93\x08"
+        if cmp(text,"2196")==0:
+                a = "\x94\x08"
+        if cmp(text,"2197")==0:
+                a = "\x95\x08"
+        if cmp(text,"2198")==0:
+                a = "\x96\x08"
+        if cmp(text,"2199")==0:
+                a = "\x97\x08"
+        if cmp(text,"2200")==0:
+                a = "\x98\x08"
+        if cmp(text,"2201")==0:
+                a = "\x99\x08"
+        if cmp(text,"2202")==0:
+                a = "\x9a\x08"
+        if cmp(text,"2203")==0:
+                a = "\x9b\x08"
+        if cmp(text,"2204")==0:
+                a = "\x9c\x08"
+        if cmp(text,"2205")==0:
+                a = "\x9d\x08"
+        if cmp(text,"2206")==0:
+                a = "\x9e\x08"
+        if cmp(text,"2207")==0:
+                a = "\x9f\x08"
+        if cmp(text,"2208")==0:
+                a = "\xa0\x08"
+        if cmp(text,"2209")==0:
+                a = "\xa1\x08"
+        if cmp(text,"2210")==0:
+                a = "\xa2\x08"
+        if cmp(text,"2211")==0:
+                a = "\xa3\x08"
+        if cmp(text,"2212")==0:
+                a = "\xa4\x08"
+        if cmp(text,"2213")==0:
+                a = "\xa5\x08"
+        if cmp(text,"2214")==0:
+                a = "\xa6\x08"
+        if cmp(text,"2215")==0:
+                a = "\xa7\x08"
+        if cmp(text,"2216")==0:
+                a = "\xa8\x08"
+        if cmp(text,"2217")==0:
+                a = "\xa9\x08"
+        if cmp(text,"2218")==0:
+                a = "\xaa\x08"
+        if cmp(text,"2219")==0:
+                a = "\xab\x08"
+        if cmp(text,"2220")==0:
+                a = "\xac\x08"
+        if cmp(text,"2221")==0:
+                a = "\xad\x08"
+        if cmp(text,"2222")==0:
+                a = "\xae\x08"
+        if cmp(text,"2223")==0:
+                a = "\xaf\x08"
+        if cmp(text,"2224")==0:
+                a = "\xb0\x08"
+        if cmp(text,"2225")==0:
+                a = "\xb1\x08"
+        if cmp(text,"2226")==0:
+                a = "\xb2\x08"
+        if cmp(text,"2227")==0:
+                a = "\xb3\x08"
+        if cmp(text,"2228")==0:
+                a = "\xb4\x08"
+        if cmp(text,"2229")==0:
+                a = "\xb5\x08"
+        if cmp(text,"2230")==0:
+                a = "\xb6\x08"
+        if cmp(text,"2231")==0:
+                a = "\xb7\x08"
+        if cmp(text,"2232")==0:
+                a = "\xb8\x08"
+        if cmp(text,"2233")==0:
+                a = "\xb9\x08"
+        if cmp(text,"2234")==0:
+                a = "\xba\x08"
+        if cmp(text,"2235")==0:
+                a = "\xbb\x08"
+        if cmp(text,"2236")==0:
+                a = "\xbc\x08"
+        if cmp(text,"2237")==0:
+                a = "\xbd\x08"
+        if cmp(text,"2238")==0:
+                a = "\xbe\x08"
+        if cmp(text,"2239")==0:
+                a = "\xbf\x08"
+        if cmp(text,"2240")==0:
+                a = "\xc0\x08"
+        if cmp(text,"2241")==0:
+                a = "\xc1\x08"
+        if cmp(text,"2242")==0:
+                a = "\xc2\x08"
+        if cmp(text,"2243")==0:
+                a = "\xc3\x08"
+        if cmp(text,"2244")==0:
+                a = "\xc4\x08"
+        if cmp(text,"2245")==0:
+                a = "\xc5\x08"
+        if cmp(text,"2246")==0:
+                a = "\xc6\x08"
+        if cmp(text,"2247")==0:
+                a = "\xc7\x08"
+        if cmp(text,"2248")==0:
+                a = "\xc8\x08"
+        if cmp(text,"2249")==0:
+                a = "\xc9\x08"
+        if cmp(text,"2250")==0:
+                a = "\xca\x08"
+        if cmp(text,"2251")==0:
+                a = "\xcb\x08"
+        if cmp(text,"2252")==0:
+                a = "\xcc\x08"
+        if cmp(text,"2253")==0:
+                a = "\xcd\x08"
+        if cmp(text,"2254")==0:
+                a = "\xce\x08"
+        if cmp(text,"2255")==0:
+                a = "\xcf\x08"
+        if cmp(text,"2256")==0:
+                a = "\xd0\x08"
+        if cmp(text,"2257")==0:
+                a = "\xd1\x08"
+        if cmp(text,"2258")==0:
+                a = "\xd2\x08"
+        if cmp(text,"2259")==0:
+                a = "\xd3\x08"
+        if cmp(text,"2260")==0:
+                a = "\xd4\x08"
+        if cmp(text,"2261")==0:
+                a = "\xd5\x08"
+        if cmp(text,"2262")==0:
+                a = "\xd6\x08"
+        if cmp(text,"2263")==0:
+                a = "\xd7\x08"
+        if cmp(text,"2264")==0:
+                a = "\xd8\x08"
+        if cmp(text,"2265")==0:
+                a = "\xd9\x08"
+        if cmp(text,"2266")==0:
+                a = "\xda\x08"
+        if cmp(text,"2267")==0:
+                a = "\xdb\x08"
+        if cmp(text,"2268")==0:
+                a = "\xdc\x08"
+        if cmp(text,"2269")==0:
+                a = "\xdd\x08"
+        if cmp(text,"2270")==0:
+                a = "\xde\x08"
+        if cmp(text,"2271")==0:
+                a = "\xdf\x08"
+        if cmp(text,"2272")==0:
+                a = "\xe0\x08"
+        if cmp(text,"2273")==0:
+                a = "\xe1\x08"
+        if cmp(text,"2274")==0:
+                a = "\xe2\x08"
+        if cmp(text,"2275")==0:
+                a = "\xe3\x08"
+        if cmp(text,"2276")==0:
+                a = "\xe4\x08"
+        if cmp(text,"2277")==0:
+                a = "\xe5\x08"
+        if cmp(text,"2278")==0:
+                a = "\xe6\x08"
+        if cmp(text,"2279")==0:
+                a = "\xe7\x08"
+        if cmp(text,"2280")==0:
+                a = "\xe8\x08"
+        if cmp(text,"2281")==0:
+                a = "\xe9\x08"
+        if cmp(text,"2282")==0:
+                a = "\xea\x08"
+        if cmp(text,"2283")==0:
+                a = "\xeb\x08"
+        if cmp(text,"2284")==0:
+                a = "\xec\x08"
+        if cmp(text,"2285")==0:
+                a = "\xed\x08"
+        if cmp(text,"2286")==0:
+                a = "\xee\x08"
+        if cmp(text,"2287")==0:
+                a = "\xef\x08"
+        if cmp(text,"2288")==0:
+                a = "\xf0\x08"
+        if cmp(text,"2289")==0:
+                a = "\xf1\x08"
+        if cmp(text,"2290")==0:
+                a = "\xf2\x08"
+        if cmp(text,"2291")==0:
+                a = "\xf3\x08"
+        if cmp(text,"2292")==0:
+                a = "\xf4\x08"
+        if cmp(text,"2293")==0:
+                a = "\xf5\x08"
+        if cmp(text,"2294")==0:
+                a = "\xf6\x08"
+        if cmp(text,"2295")==0:
+                a = "\xf7\x08"
+        if cmp(text,"2296")==0:
+                a = "\xf8\x08"
+        if cmp(text,"2297")==0:
+                a = "\xf9\x08"
+        if cmp(text,"2298")==0:
+                a = "\xfa\x08"
+        if cmp(text,"2299")==0:
+                a = "\xfb\x08"
+        if cmp(text,"2300")==0:
+                a = "\xfc\x08"
+        if cmp(text,"2301")==0:
+                a = "\xfd\x08"
+        if cmp(text,"2302")==0:
+                a = "\xfe\x08"
+        if cmp(text,"2303")==0:
+                a = "\xff\x08"
+        if cmp(text,"2304")==0:
+                a = "\x00\x09"
+        if cmp(text,"2305")==0:
+                a = "\x01\x09"
+        if cmp(text,"2306")==0:
+                a = "\x02\x09"
+        if cmp(text,"2307")==0:
+                a = "\x03\x09"
+        if cmp(text,"2308")==0:
+                a = "\x04\x09"
+        if cmp(text,"2309")==0:
+                a = "\x05\x09"
+        if cmp(text,"2310")==0:
+                a = "\x06\x09"
+        if cmp(text,"2311")==0:
+                a = "\x07\x09"
+        if cmp(text,"2312")==0:
+                a = "\x08\x09"
+        if cmp(text,"2313")==0:
+                a = "\x09\x09"
+        if cmp(text,"2314")==0:
+                a = "\x0a\x09"
+        if cmp(text,"2315")==0:
+                a = "\x0b\x09"
+        if cmp(text,"2316")==0:
+                a = "\x0c\x09"
+        if cmp(text,"2317")==0:
+                a = "\x0d\x09"
+        if cmp(text,"2318")==0:
+                a = "\x0e\x09"
+        if cmp(text,"2319")==0:
+                a = "\x0f\x09"
+        if cmp(text,"2320")==0:
+                a = "\x10\x09"
+        if cmp(text,"2321")==0:
+                a = "\x11\x09"
+        if cmp(text,"2322")==0:
+                a = "\x12\x09"
+        if cmp(text,"2323")==0:
+                a = "\x13\x09"
+        if cmp(text,"2324")==0:
+                a = "\x14\x09"
+        if cmp(text,"2325")==0:
+                a = "\x15\x09"
+        if cmp(text,"2326")==0:
+                a = "\x16\x09"
+        if cmp(text,"2327")==0:
+                a = "\x17\x09"
+        if cmp(text,"2328")==0:
+                a = "\x18\x09"
+        if cmp(text,"2329")==0:
+                a = "\x19\x09"
+        if cmp(text,"2330")==0:
+                a = "\x1a\x09"
+        if cmp(text,"2331")==0:
+                a = "\x1b\x09"
+        if cmp(text,"2332")==0:
+                a = "\x1c\x09"
+        if cmp(text,"2333")==0:
+                a = "\x1d\x09"
+        if cmp(text,"2334")==0:
+                a = "\x1e\x09"
+        if cmp(text,"2335")==0:
+                a = "\x1f\x09"
+        if cmp(text,"2336")==0:
+                a = "\x20\x09"
+        if cmp(text,"2337")==0:
+                a = "\x21\x09"
+        if cmp(text,"2338")==0:
+                a = "\x22\x09"
+        if cmp(text,"2339")==0:
+                a = "\x23\x09"
+        if cmp(text,"2340")==0:
+                a = "\x24\x09"
+        if cmp(text,"2341")==0:
+                a = "\x25\x09"
+        if cmp(text,"2342")==0:
+                a = "\x26\x09"
+        if cmp(text,"2343")==0:
+                a = "\x27\x09"
+        if cmp(text,"2344")==0:
+                a = "\x28\x09"
+        if cmp(text,"2345")==0:
+                a = "\x29\x09"
+        if cmp(text,"2346")==0:
+                a = "\x2a\x09"
+        if cmp(text,"2347")==0:
+                a = "\x2b\x09"
+        if cmp(text,"2348")==0:
+                a = "\x2c\x09"
+        if cmp(text,"2349")==0:
+                a = "\x2d\x09"
+        if cmp(text,"2350")==0:
+                a = "\x2e\x09"
+        if cmp(text,"2351")==0:
+                a = "\x2f\x09"
+        if cmp(text,"2352")==0:
+                a = "\x30\x09"
+        if cmp(text,"2353")==0:
+                a = "\x31\x09"
+        if cmp(text,"2354")==0:
+                a = "\x32\x09"
+        if cmp(text,"2355")==0:
+                a = "\x33\x09"
+        if cmp(text,"2356")==0:
+                a = "\x34\x09"
+        if cmp(text,"2357")==0:
+                a = "\x35\x09"
+        if cmp(text,"2358")==0:
+                a = "\x36\x09"
+        if cmp(text,"2359")==0:
+                a = "\x37\x09"
+        if cmp(text,"2360")==0:
+                a = "\x38\x09"
+        if cmp(text,"2361")==0:
+                a = "\x39\x09"
+        if cmp(text,"2362")==0:
+                a = "\x3a\x09"
+        if cmp(text,"2363")==0:
+                a = "\x3b\x09"
+        if cmp(text,"2364")==0:
+                a = "\x3c\x09"
+        if cmp(text,"2365")==0:
+                a = "\x3d\x09"
+        if cmp(text,"2366")==0:
+                a = "\x3e\x09"
+        if cmp(text,"2367")==0:
+                a = "\x3f\x09"
+        if cmp(text,"2368")==0:
+                a = "\x40\x09"
+        if cmp(text,"2369")==0:
+                a = "\x41\x09"
+        if cmp(text,"2370")==0:
+                a = "\x42\x09"
+        if cmp(text,"2371")==0:
+                a = "\x43\x09"
+        if cmp(text,"2372")==0:
+                a = "\x44\x09"
+        if cmp(text,"2373")==0:
+                a = "\x45\x09"
+        if cmp(text,"2374")==0:
+                a = "\x46\x09"
+        if cmp(text,"2375")==0:
+                a = "\x47\x09"
+        if cmp(text,"2376")==0:
+                a = "\x48\x09"
+        if cmp(text,"2377")==0:
+                a = "\x49\x09"
+        if cmp(text,"2378")==0:
+                a = "\x4a\x09"
+        if cmp(text,"2379")==0:
+                a = "\x4b\x09"
+        if cmp(text,"2380")==0:
+                a = "\x4c\x09"
+        if cmp(text,"2381")==0:
+                a = "\x4d\x09"
+        if cmp(text,"2382")==0:
+                a = "\x4e\x09"
+        if cmp(text,"2383")==0:
+                a = "\x4f\x09"
+        if cmp(text,"2384")==0:
+                a = "\x50\x09"
+        if cmp(text,"2385")==0:
+                a = "\x51\x09"
+        if cmp(text,"2386")==0:
+                a = "\x52\x09"
+        if cmp(text,"2387")==0:
+                a = "\x53\x09"
+        if cmp(text,"2388")==0:
+                a = "\x54\x09"
+        if cmp(text,"2389")==0:
+                a = "\x55\x09"
+        if cmp(text,"2390")==0:
+                a = "\x56\x09"
+        if cmp(text,"2391")==0:
+                a = "\x57\x09"
+        if cmp(text,"2392")==0:
+                a = "\x58\x09"
+        if cmp(text,"2393")==0:
+                a = "\x59\x09"
+        if cmp(text,"2394")==0:
+                a = "\x5a\x09"
+        if cmp(text,"2395")==0:
+                a = "\x5b\x09"
+        if cmp(text,"2396")==0:
+                a = "\x5c\x09"
+        if cmp(text,"2397")==0:
+                a = "\x5d\x09"
+        if cmp(text,"2398")==0:
+                a = "\x5e\x09"
+        if cmp(text,"2399")==0:
+                a = "\x5f\x09"
+        if cmp(text,"2400")==0:
+                a = "\x60\x09"
+        if cmp(text,"2401")==0:
+                a = "\x61\x09"
+        if cmp(text,"2402")==0:
+                a = "\x62\x09"
+        if cmp(text,"2403")==0:
+                a = "\x63\x09"
+        if cmp(text,"2404")==0:
+                a = "\x64\x09"
+        if cmp(text,"2405")==0:
+                a = "\x65\x09"
+        if cmp(text,"2406")==0:
+                a = "\x66\x09"
+        if cmp(text,"2407")==0:
+                a = "\x67\x09"
+        if cmp(text,"2408")==0:
+                a = "\x68\x09"
+        if cmp(text,"2409")==0:
+                a = "\x69\x09"
+        if cmp(text,"2410")==0:
+                a = "\x6a\x09"
+        if cmp(text,"2411")==0:
+                a = "\x6b\x09"
+        if cmp(text,"2412")==0:
+                a = "\x6c\x09"
+        if cmp(text,"2413")==0:
+                a = "\x6d\x09"
+        if cmp(text,"2414")==0:
+                a = "\x6e\x09"
+        if cmp(text,"2415")==0:
+                a = "\x6f\x09"
+        if cmp(text,"2416")==0:
+                a = "\x70\x09"
+        if cmp(text,"2417")==0:
+                a = "\x71\x09"
+        if cmp(text,"2418")==0:
+                a = "\x72\x09"
+        if cmp(text,"2419")==0:
+                a = "\x73\x09"
+        if cmp(text,"2420")==0:
+                a = "\x74\x09"
+        if cmp(text,"2421")==0:
+                a = "\x75\x09"
+        if cmp(text,"2422")==0:
+                a = "\x76\x09"
+        if cmp(text,"2423")==0:
+                a = "\x77\x09"
+        if cmp(text,"2424")==0:
+                a = "\x78\x09"
+        if cmp(text,"2425")==0:
+                a = "\x79\x09"
+        if cmp(text,"2426")==0:
+                a = "\x7a\x09"
+        if cmp(text,"2427")==0:
+                a = "\x7b\x09"
+        if cmp(text,"2428")==0:
+                a = "\x7c\x09"
+        if cmp(text,"2429")==0:
+                a = "\x7d\x09"
+        if cmp(text,"2430")==0:
+                a = "\x7e\x09"
+        if cmp(text,"2431")==0:
+                a = "\x7f\x09"
+        if cmp(text,"2432")==0:
+                a = "\x80\x09"
+        if cmp(text,"2433")==0:
+                a = "\x81\x09"
+        if cmp(text,"2434")==0:
+                a = "\x82\x09"
+        if cmp(text,"2435")==0:
+                a = "\x83\x09"
+        if cmp(text,"2436")==0:
+                a = "\x84\x09"
+        if cmp(text,"2437")==0:
+                a = "\x85\x09"
+        if cmp(text,"2438")==0:
+                a = "\x86\x09"
+        if cmp(text,"2439")==0:
+                a = "\x87\x09"
+        if cmp(text,"2440")==0:
+                a = "\x88\x09"
+        if cmp(text,"2441")==0:
+                a = "\x89\x09"
+        if cmp(text,"2442")==0:
+                a = "\x8a\x09"
+        if cmp(text,"2443")==0:
+                a = "\x8b\x09"
+        if cmp(text,"2444")==0:
+                a = "\x8c\x09"
+        if cmp(text,"2445")==0:
+                a = "\x8d\x09"
+        if cmp(text,"2446")==0:
+                a = "\x8e\x09"
+        if cmp(text,"2447")==0:
+                a = "\x8f\x09"
+        if cmp(text,"2448")==0:
+                a = "\x90\x09"
+        if cmp(text,"2449")==0:
+                a = "\x91\x09"
+        if cmp(text,"2450")==0:
+                a = "\x92\x09"
+        if cmp(text,"2451")==0:
+                a = "\x93\x09"
+        if cmp(text,"2452")==0:
+                a = "\x94\x09"
+        if cmp(text,"2453")==0:
+                a = "\x95\x09"
+        if cmp(text,"2454")==0:
+                a = "\x96\x09"
+        if cmp(text,"2455")==0:
+                a = "\x97\x09"
+        if cmp(text,"2456")==0:
+                a = "\x98\x09"
+        if cmp(text,"2457")==0:
+                a = "\x99\x09"
+        if cmp(text,"2458")==0:
+                a = "\x9a\x09"
+        if cmp(text,"2459")==0:
+                a = "\x9b\x09"
+        if cmp(text,"2460")==0:
+                a = "\x9c\x09"
+        if cmp(text,"2461")==0:
+                a = "\x9d\x09"
+        if cmp(text,"2462")==0:
+                a = "\x9e\x09"
+        if cmp(text,"2463")==0:
+                a = "\x9f\x09"
+        if cmp(text,"2464")==0:
+                a = "\xa0\x09"
+        if cmp(text,"2465")==0:
+                a = "\xa1\x09"
+        if cmp(text,"2466")==0:
+                a = "\xa2\x09"
+        if cmp(text,"2467")==0:
+                a = "\xa3\x09"
+        if cmp(text,"2468")==0:
+                a = "\xa4\x09"
+        if cmp(text,"2469")==0:
+                a = "\xa5\x09"
+        if cmp(text,"2470")==0:
+                a = "\xa6\x09"
+        if cmp(text,"2471")==0:
+                a = "\xa7\x09"
+        if cmp(text,"2472")==0:
+                a = "\xa8\x09"
+        if cmp(text,"2473")==0:
+                a = "\xa9\x09"
+        if cmp(text,"2474")==0:
+                a = "\xaa\x09"
+        if cmp(text,"2475")==0:
+                a = "\xab\x09"
+        if cmp(text,"2476")==0:
+                a = "\xac\x09"
+        if cmp(text,"2477")==0:
+                a = "\xad\x09"
+        if cmp(text,"2478")==0:
+                a = "\xae\x09"
+        if cmp(text,"2479")==0:
+                a = "\xaf\x09"
+        if cmp(text,"2480")==0:
+                a = "\xb0\x09"
+        if cmp(text,"2481")==0:
+                a = "\xb1\x09"
+        if cmp(text,"2482")==0:
+                a = "\xb2\x09"
+        if cmp(text,"2483")==0:
+                a = "\xb3\x09"
+        if cmp(text,"2484")==0:
+                a = "\xb4\x09"
+        if cmp(text,"2485")==0:
+                a = "\xb5\x09"
+        if cmp(text,"2486")==0:
+                a = "\xb6\x09"
+        if cmp(text,"2487")==0:
+                a = "\xb7\x09"
+        if cmp(text,"2488")==0:
+                a = "\xb8\x09"
+        if cmp(text,"2489")==0:
+                a = "\xb9\x09"
+        if cmp(text,"2490")==0:
+                a = "\xba\x09"
+        if cmp(text,"2491")==0:
+                a = "\xbb\x09"
+        if cmp(text,"2492")==0:
+                a = "\xbc\x09"
+        if cmp(text,"2493")==0:
+                a = "\xbd\x09"
+        if cmp(text,"2494")==0:
+                a = "\xbe\x09"
+        if cmp(text,"2495")==0:
+                a = "\xbf\x09"
+        if cmp(text,"2496")==0:
+                a = "\xc0\x09"
+        if cmp(text,"2497")==0:
+                a = "\xc1\x09"
+        if cmp(text,"2498")==0:
+                a = "\xc2\x09"
+        if cmp(text,"2499")==0:
+                a = "\xc3\x09"
+        if cmp(text,"2500")==0:
+                a = "\xc4\x09"
